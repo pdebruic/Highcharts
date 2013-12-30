@@ -1,0 +1,10 @@
+as yet unclassified
+writeFlatContentOf: anXMLElement on: aStream
+
+((anXMLElement isKindOf: XMLString) or: [ anXMLElement nodes isEmpty ]) 
+		ifTrue: [
+			aStream
+				nextPutAll: anXMLElement printString trimSeparators;
+				space]
+		ifFalse: [
+			anXMLElement nodes do: [:content | self writeFlatContentOf: content on: aStream]]
