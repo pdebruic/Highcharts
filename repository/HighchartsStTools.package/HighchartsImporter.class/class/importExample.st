@@ -1,3 +1,3 @@
 import example
 importExample
-	(HighchartsImporter importingFrom: '/Users/myUser/HighChartsCopy/highcharts.XML') updateHighchartsProtocol.
+	(HighchartsImporter importingFrom: '/Users/mariano/HighChartsCopy/highcharts.XML') updateHighchartsProtocol.
