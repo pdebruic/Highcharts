@@ -12,7 +12,7 @@ aClass := aSectionClass.
 		at: className
 		ifPresent: [:class | class ]
 		ifAbsent: [ 
-			definition := nautilus buildTestClassDefinitionFrom: aClass.
+			definition := self buildTestClassDefinitionFrom: aClass.
 			testClass := nautilus 
 				compileANewClassFrom: definition
 				notifying: nil
