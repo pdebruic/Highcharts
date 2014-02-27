@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"configureXAxisOf:accordingTo:" : "MaximilianoTabacman 2/27/2014 16:29",
+		"pointFor:on:" : "MaximilianoTabacman 2/27/2014 16:30",
+		"initializeNamed:composedOf:configuredUsing:" : "MaximilianoTabacman 2/27/2014 16:27",
+		"configureRangeOf:accordingTo:" : "MaximilianoTabacman 2/27/2014 16:28",
+		"configureYAxisOf:accordingTo:" : "MaximilianoTabacman 2/27/2014 16:29",
+		"dataAsPointsOn:" : "MaximilianoTabacman 2/27/2014 16:28",
+		"name" : "MaximilianoTabacman 2/27/2014 16:49"
+	},
+	"class" : {
+		"named:composedOf:configuredUsing:" : "MaximilianoTabacman 2/27/2014 16:27",
+		"named:composedOf:" : "MaximilianoTabacman 2/27/2014 16:27"
+	}
+}
