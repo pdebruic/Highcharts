@@ -1,9 +1,17 @@
 {
 	"instance" : {
-		"renderContentOn:" : "MarianoMartinezPeck 12/31/2013 13:27"
+		"goldHighestPriceSeries" : "MaximilianoTabacman 2/27/2014 16:48",
+		"renderBarGovermentComputersChartOn:" : "MaximilianoTabacman 2/27/2014 16:25",
+		"goldLowestPriceSeries" : "MaximilianoTabacman 2/27/2014 16:48",
+		"goldOpeningPriceSeries" : "MaximilianoTabacman 2/27/2014 16:48",
+		"goldPricesSeries" : "MaximilianoTabacman 2/27/2014 16:46",
+		"govermentComputersSeries" : "MaximilianoTabacman 2/27/2014 16:25",
+		"renderContentOn:" : "MarianoMartinezPeck 2/20/2014 18:09",
+		"goldClosingPriceSeries" : "MaximilianoTabacman 2/27/2014 16:48",
+		"renderPricePerTroyOunce:" : "MaximilianoTabacman 2/27/2014 16:48"
 	},
 	"class" : {
 		"initialize" : "MarianoMartinezPeck 12/31/2013 13:05",
-		"register" : "MarianoMartinezPeck 12/24/2013 09:50"
+		"register" : "MarianoMartinezPeck 2/6/2014 10:16"
 	}
 }
