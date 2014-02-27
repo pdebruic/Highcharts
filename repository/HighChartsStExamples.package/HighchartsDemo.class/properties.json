@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "WAComponent",
-	"category" : "HighChartsStExamples",
+	"category" : "HighchartsStExamples",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
