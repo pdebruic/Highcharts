@@ -1,0 +1,32 @@
+{
+	"instance" : {
+		"endAngle:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"minSize:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"shadow:" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"borderColor:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"borderWidth:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"enableMouseTracking:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"colors:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"stickyTracking:" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"linkedTo:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"dataLabels" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"ignoreHiddenPoint:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"allowPointSelect:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"point" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"showInLegend:" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"states:" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"tooltip:" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"innerSize:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"size:" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"visible:" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"selected:" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"id:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"startAngle:" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"cursor:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"events" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"animation:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"center:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"slicedOffset:" : "MarianoMartinezPeck 12/31/2013 13:01"
+	},
+	"class" : { }
+}
