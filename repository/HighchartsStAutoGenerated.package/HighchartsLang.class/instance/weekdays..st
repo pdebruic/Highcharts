@@ -1,7 +1,7 @@
 as yet unclassified
 weekdays: anArrayOfString
 
-	"An array containing the weekday names.		  Defaults to [&quot;Sunday&quot;, &quot;Monday&quot;, &quot;Tuesday&quot;, &quot;Wednesday&quot;, &quot;Thursday&quot;, &quot;Friday&quot;, &quot;Saturday&quot;] . 
+	"An array containing the weekday names.		  Defaults to ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'] . 
 	-user"
 
 	configurationOptions at: 'weekdays' put: anArrayOfString

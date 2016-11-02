@@ -1,8 +1,11 @@
 {
 	"instance" : {
-		"canvasToolsURL:" : "MarianoMartinezPeck 12/31/2013 12:57",
-		"VMLRadialGradientURL:" : "MarianoMartinezPeck 12/31/2013 12:57",
-		"useUTC:" : "MarianoMartinezPeck 12/31/2013 12:57"
+		"VMLRadialGradientURL:" : "MarianoMartinezPeck 11/2/2016 16:37",
+		"Date:" : "MarianoMartinezPeck 11/2/2016 16:37",
+		"getTimezoneOffset:" : "MarianoMartinezPeck 11/2/2016 16:37",
+		"timezoneOffset:" : "MarianoMartinezPeck 11/2/2016 16:37",
+		"useUTC:" : "MarianoMartinezPeck 11/2/2016 16:37",
+		"canvasToolsURL:" : "MarianoMartinezPeck 11/2/2016 16:37"
 	},
 	"class" : { }
 }

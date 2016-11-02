@@ -1,0 +1,7 @@
+as yet unclassified
+pointBreak: aFunction
+
+	"An event fired when a break from this axis occurs on a point. 
+	-user"
+
+	configurationOptions at: 'pointBreak' put: aFunction

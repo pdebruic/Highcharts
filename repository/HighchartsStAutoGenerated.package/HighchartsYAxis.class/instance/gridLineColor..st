@@ -1,7 +1,7 @@
 as yet unclassified
 gridLineColor: aColor
 
-	"Color of the grid lines extending the ticks across the plot area. Defaults to #C0C0C0 . 
+	"Color of the grid lines extending the ticks across the plot area. In styled mode , the stroke is given in the .highcharts-grid-line class. Defaults to #e6e6e6 . 
 	-user"
 
 	configurationOptions at: 'gridLineColor' put: aColor

@@ -5,7 +5,7 @@ lang
 		be set on each chart initiation. Instead, use Highcharts.setOptions to
 		set it before any chart is initiated. Highcharts.setOptions({
 	lang: {
-		months: ['Janvier', 'Fevrier', 'Mars', 'Avril', 'Mai', 'Juin',  'Juillet', 'Aout', 'Septembre', 'Octobre', 'Novembre', 'Decembre'],
+		months: ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin',  'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre'],
 		weekdays: ['Dimanche', 'Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi']
 	}
 }); 
