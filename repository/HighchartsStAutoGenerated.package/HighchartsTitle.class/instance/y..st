@@ -1,7 +1,7 @@
 as yet unclassified
 y: aNumber
 
-	"The y position of the title relative to the alignment within chart.spacingTop and chart.spacingBottom. Defaults to 15 . 
+	"The y position of the title relative to the alignment within chart.spacingTop and chart.spacingBottom . By default it depends on the font size. 
 	-user"
 
 	configurationOptions at: 'y' put: aNumber

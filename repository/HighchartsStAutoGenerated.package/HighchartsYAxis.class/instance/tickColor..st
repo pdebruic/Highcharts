@@ -1,7 +1,7 @@
 as yet unclassified
 tickColor: aColor
 
-	"Color for the main tick marks. Defaults to #C0D0E0 . 
+	"Color for the main tick marks. In styled mode , the stroke is given in the .highcharts-tick class. Defaults to #ccd6eb . 
 	-user"
 
 	configurationOptions at: 'tickColor' put: aColor

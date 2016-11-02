@@ -1,0 +1,7 @@
+as yet unclassified
+alpha: aNumber
+
+	"One of the two rotation angles for the chart. Defaults to 0 . 
+	-user"
+
+	configurationOptions at: 'alpha' put: aNumber
