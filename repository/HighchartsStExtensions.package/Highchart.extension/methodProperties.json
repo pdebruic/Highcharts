@@ -1,8 +1,9 @@
 {
 	"instance" : {
+		"series" : "MarianoMartinezPeck 11/3/2016 11:58",
+		"addSeriesForType:" : "MarianoMartinezPeck 11/3/2016 12:03",
 		"initialize" : "MarianoMartinezPeck 12/31/2013 13:27",
 		"id:" : "MarianoMartinezPeck 12/31/2013 13:27",
-		"series" : "MarianoMartinezPeck 12/31/2013 11:12",
 		"yAxis:" : "MarianoMartinezPeck 12/31/2013 13:27"
 	},
 	"class" : { }
