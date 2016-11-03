@@ -16,7 +16,7 @@ renderBarGovermentComputersChartOn: html
 	chart xAxis type: 'category'.
 	chart plotOptions column colorByPoint: true.
 	chart plotOptions column dataLabels enabled: true.
-	chart series
+	(chart addSeriesForType: 'column')
 		index: 0;
 		name: series name;
 		data: (series dataAsPointsOn: html).
