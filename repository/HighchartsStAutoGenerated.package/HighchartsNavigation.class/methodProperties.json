@@ -1,23 +1,9 @@
 {
 	"instance" : {
-		"symbolY:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"symbolStrokeWidth:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"verticalAlign:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"y:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"align:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"symbolSize:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"symbolStroke:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"symbolX:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"text:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"height:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"menuItemHoverStyle:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"theme:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"width:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"menuStyle:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"navigation" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"symbolFill:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"enabled:" : "MarianoMartinezPeck 11/2/2016 16:37",
-		"menuItemStyle:" : "MarianoMartinezPeck 11/2/2016 16:37"
+		"buttonOptions" : "MarianoMartinezPeck 11/3/2016 11:06",
+		"menuItemHoverStyle:" : "MarianoMartinezPeck 11/3/2016 11:06",
+		"menuItemStyle:" : "MarianoMartinezPeck 11/3/2016 11:06",
+		"menuStyle:" : "MarianoMartinezPeck 11/3/2016 11:06"
 	},
 	"class" : { }
 }

@@ -1,0 +1,7 @@
+as yet unclassified
+select: aFunction
+
+	"Fires when the point is selected either programmatically or following a click on the point. One parameter, event , is passed to the function. Returning false cancels the operation. 
+	-user"
+
+	configurationOptions at: 'select' put: aFunction
