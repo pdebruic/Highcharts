@@ -23,7 +23,7 @@ renderPricePerTroyOunce: html
 	
 	allSeries
 		doWithIndex: [ :series :index | 
-			chart series
+			(chart addSeriesForType: 'column')
 				index: index - 1;
 				name: series name;
 				data: (series dataAsPointsOn: html) ].
