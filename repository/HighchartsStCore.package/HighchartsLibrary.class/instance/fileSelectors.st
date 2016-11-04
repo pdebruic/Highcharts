@@ -1,4 +1,4 @@
 as yet unclassified
 fileSelectors
 
-	^#(highchartsJs highchartsMoreJs configureHighchartsGlobalOptionsJs)
+	^#(#highcharts5dot0dot2Js highchartsMoreJs configureHighchartsGlobalOptionsJs)
