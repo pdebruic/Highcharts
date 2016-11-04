@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"testDownloadPNG" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testNoData" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testDownloadSVG" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testWeekdays" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testDecimalPoint" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testShortWeekdays" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testNumericSymbols" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testDownloadPDF" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testInvalidDate" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testContextButtonTitle" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testThousandsSep" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testShortMonths" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testMonths" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testDownloadJPEG" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testPrintChart" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testResetZoomTitle" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testResetZoom" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testDrillUpText" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testLoading" : "MarianoMartinezPeck 11/4/2016 19:32"
+	},
+	"class" : { }
+}

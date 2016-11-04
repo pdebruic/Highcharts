@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"testBubble" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testPyramid" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testColumnrange" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testBoxplot" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testGauge" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testPolygon" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testWaterfall" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testFunnel" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testTreemap" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testErrorbar" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testHeatmap" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testSolidgauge" : "MarianoMartinezPeck 11/4/2016 19:32"
+	},
+	"class" : { }
+}
