@@ -1,7 +1,6 @@
 as yet unclassified
 enabled: aBoolean
 
-	"Enable or disable visible feedback for selection. Defaults to true . 
-	-user"
+	"Enable or disable visible feedback for selection. Defaults to true . "
 
 	configurationOptions at: 'enabled' put: aBoolean

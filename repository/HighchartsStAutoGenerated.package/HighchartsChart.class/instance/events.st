@@ -1,7 +1,6 @@
 as yet unclassified
 events
 
-	"Event listeners for the chart. 
-	-user"
+	"Event listeners for the chart. "
 
 	^configurationOptions at: 'events' ifAbsentPut: [HighchartsChartEvents new]

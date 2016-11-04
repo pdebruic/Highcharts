@@ -11,7 +11,6 @@ data: anArrayOfObjectOrNumber
     y: 7,
     name: 'Point1',
     color: '#FF00FF'
-}]  The typical gauge only contains a single data value. 
-	-user"
+}]  The typical gauge only contains a single data value. "
 
 	configurationOptions at: 'data' put: anArrayOfObjectOrNumber

@@ -5,7 +5,6 @@ global
 	global: {
 		useUTC: false
 	}
-}); 
-	-user"
+}); "
 
 	^configurationOptions at: 'global' ifAbsentPut: [HighchartsGlobal new]

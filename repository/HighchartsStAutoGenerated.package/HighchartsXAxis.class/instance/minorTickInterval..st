@@ -6,7 +6,6 @@ minorTickInterval: aStringOrNumber
  	the minorTickInterval to 1 puts one tick on each of 0.1, 1, 10, 100 etc. Setting
  	the minorTickInterval to 0.1 produces 9 ticks between 1 and 10, 
  	10 and 100 etc. A minorTickInterval of 'auto' on a log axis results in a best guess,
- 	attempting to enter approximately 5 minor ticks between each major tick.  If user settings dictate minor ticks to become too dense, they don't make sense, and will be ignored to prevent performance problems. On axes using categories , minor ticks are not supported.  
-	-user"
+ 	attempting to enter approximately 5 minor ticks between each major tick.  If user settings dictate minor ticks to become too dense, they don't make sense, and will be ignored to prevent performance problems. On axes using categories , minor ticks are not supported.  "
 
 	configurationOptions at: 'minorTickInterval' put: aStringOrNumber

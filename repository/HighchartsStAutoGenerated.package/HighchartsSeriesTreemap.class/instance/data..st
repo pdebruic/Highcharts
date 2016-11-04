@@ -11,7 +11,6 @@ data: anArrayOfObjectOrNumber
     value: 2,
     name: 'Point1',
     color: '#FF00FF'
-}]  
-	-user"
+}]  "
 
 	configurationOptions at: 'data' put: anArrayOfObjectOrNumber

@@ -10,7 +10,6 @@ dateTimeLabelFormats: anObject
     week:'Week from %A, %b %e, %Y',
     month:'%B %Y',
     year:'%Y'
-}  <p /> 
-	-user"
+}  <p /> "
 
 	configurationOptions at: 'dateTimeLabelFormats' put: anObject

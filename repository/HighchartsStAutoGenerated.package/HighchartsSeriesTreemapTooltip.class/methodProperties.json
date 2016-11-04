@@ -1,19 +1,19 @@
 {
 	"instance" : {
-		"valueDecimals:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"hideDelay:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"valuePrefix:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"xDateFormat:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"padding:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"headerFormat:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"pointFormatter:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"valueSuffix:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"footerFormat:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"dateTimeLabelFormats:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"followPointer:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"followTouchMove:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"split:" : "MarianoMartinezPeck 11/3/2016 11:07",
-		"pointFormat:" : "MarianoMartinezPeck 11/3/2016 11:07"
+		"valueDecimals:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"hideDelay:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"valuePrefix:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"xDateFormat:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"padding:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"headerFormat:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"pointFormatter:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"valueSuffix:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"footerFormat:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"dateTimeLabelFormats:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"followPointer:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"followTouchMove:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"split:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"pointFormat:" : "MarianoMartinezPeck 11/4/2016 19:32"
 	},
 	"class" : { }
 }
