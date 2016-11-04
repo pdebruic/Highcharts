@@ -1,7 +1,6 @@
 as yet unclassified
 series
 
-	"General options for all series types. 
-	-user"
+	"General options for all series types. "
 
 	^configurationOptions at: 'series' ifAbsentPut: [HighchartsPlotOptionsSeries new]

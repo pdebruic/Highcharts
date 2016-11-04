@@ -12,7 +12,6 @@ Defaults to: {
 	week: '%e. %b',
 	month: '%b \'%y',
 	year: '%Y'
-} 
-	-user"
+} "
 
 	configurationOptions at: 'dateTimeLabelFormats' put: anObject

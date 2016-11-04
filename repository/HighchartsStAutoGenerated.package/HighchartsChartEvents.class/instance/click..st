@@ -6,7 +6,6 @@ click: aFunction
 		Highcharts.dateFormat('%Y-%m-%d %H:%M:%S', e.xAxis[0].value), 
 		e.yAxis[0].value
 	)
-} The this keyword refers to the Chart object. 
-	-user"
+} The this keyword refers to the Chart object. "
 
 	configurationOptions at: 'click' put: aFunction

@@ -19,7 +19,6 @@ data: anArrayOfObjectOrArray
     high: 1,
     name: 'Point1',
     color: '#FF00FF'
-}]  
-	-user"
+}]  "
 
 	configurationOptions at: 'data' put: anArrayOfObjectOrArray

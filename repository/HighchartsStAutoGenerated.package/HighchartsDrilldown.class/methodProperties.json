@@ -1,11 +1,11 @@
 {
 	"instance" : {
-		"animation:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"series:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"drillUpButton:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"activeAxisLabelStyle:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"activeDataLabelStyle:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"allowPointDrilldown:" : "MarianoMartinezPeck 11/3/2016 11:06"
+		"animation:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"series:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"drillUpButton:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"activeAxisLabelStyle:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"activeDataLabelStyle:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"allowPointDrilldown:" : "MarianoMartinezPeck 11/4/2016 19:32"
 	},
 	"class" : { }
 }

@@ -25,7 +25,6 @@ units: anArray
 ], [
 	'year',
 	null
-]] 
-	-user"
+]] "
 
 	configurationOptions at: 'units' put: anArray

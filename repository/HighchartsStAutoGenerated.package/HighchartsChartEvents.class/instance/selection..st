@@ -9,7 +9,6 @@ selection: aFunction
 	);
 	// log the min and max of the y axis
 	console.log(event.yAxis[0].min, event.yAxis[0].max);
-} 
-	-user"
+} "
 
 	configurationOptions at: 'selection' put: aFunction

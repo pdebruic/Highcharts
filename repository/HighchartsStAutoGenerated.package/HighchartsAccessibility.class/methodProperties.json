@@ -1,15 +1,15 @@
 {
 	"instance" : {
-		"enabled:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"screenReaderSectionFormatter:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"keyboardNavigation:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"onTableAnchorClick:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"describeSingleSeries:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"pointDescriptionThreshold:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"pointDescriptionFormatter:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"seriesDescriptionFormatter:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"pointDateFormat:" : "MarianoMartinezPeck 11/3/2016 11:06",
-		"pointDateFormatter:" : "MarianoMartinezPeck 11/3/2016 11:06"
+		"enabled:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"screenReaderSectionFormatter:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"keyboardNavigation:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"onTableAnchorClick:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"describeSingleSeries:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"pointDescriptionThreshold:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"pointDescriptionFormatter:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"seriesDescriptionFormatter:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"pointDateFormat:" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"pointDateFormatter:" : "MarianoMartinezPeck 11/4/2016 19:32"
 	},
 	"class" : { }
 }

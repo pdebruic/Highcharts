@@ -5,7 +5,6 @@ formatter: aFunction
  given by this.value . Additional properties for this are axis , chart , isFirst and isLast .
  Defaults to: function() {
 	return this.value;
-} 
-	-user"
+} "
 
 	configurationOptions at: 'formatter' put: aFunction

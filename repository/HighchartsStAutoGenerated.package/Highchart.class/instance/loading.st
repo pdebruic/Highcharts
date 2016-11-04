@@ -6,7 +6,6 @@ loading
 	to chart.showLoading() . It is a utility for developers to communicate
 	to the end user that something is going on, for example while retrieving new data
 	via an XHR connection. The 'Loading...' text itself is not part of this configuration
-	object, but part of the lang object. 
-	-user"
+	object, but part of the lang object. "
 
 	^configurationOptions at: 'loading' ifAbsentPut: [HighchartsLoading new]

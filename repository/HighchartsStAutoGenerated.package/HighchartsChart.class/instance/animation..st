@@ -6,7 +6,6 @@ animation: aBooleanOrObject
  API method as a function parameter. The only animation not affected by this option is the 
  initial series animation, see plotOptions.series.animation .  The animation can either be set as a boolean or a configuration object. If true ,
  it will use the 'swing' jQuery easing and a duration of 500 ms. If used as a configuration object,
- the following properties are supported:  duration  The duration of the animation in milliseconds.  easing  A string reference to an easing function set on the Math object. See the easing demo .  Defaults to true . 
-	-user"
+ the following properties are supported:  duration  The duration of the animation in milliseconds.  easing  A string reference to an easing function set on the Math object. See the easing demo .  Defaults to true . "
 
 	configurationOptions at: 'animation' put: aBooleanOrObject

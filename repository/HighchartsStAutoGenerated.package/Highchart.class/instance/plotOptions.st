@@ -7,7 +7,6 @@ plotOptions
 		for all series in a chart are given in the plotOptions.series object. Then options for all series
 		of a specific type are given in the plotOptions of that type, for example plotOptions.line.
 		Next, options for one single series are given in the 
-		series array . 
-	-user"
+		series array . "
 
 	^configurationOptions at: 'plotOptions' ifAbsentPut: [HighchartsPlotOptions new]
