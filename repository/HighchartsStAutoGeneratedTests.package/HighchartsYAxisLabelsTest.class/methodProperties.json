@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"testUseHTML" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testEnabled" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testStep" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testReserveSpace" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testRotation" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testDistance" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testPadding" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testAlign" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testOverflow" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testAutoRotation" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testX" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testStaggerLines" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testZIndex" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testFormat" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testStyle" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testY" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testFormatter" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testMaxStaggerLines" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testAutoRotationLimit" : "MarianoMartinezPeck 11/4/2016 19:32"
+	},
+	"class" : { }
+}

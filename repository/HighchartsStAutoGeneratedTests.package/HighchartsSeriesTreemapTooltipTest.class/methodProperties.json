@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"testDateTimeLabelFormats" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testValueDecimals" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testSplit" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testHideDelay" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testFooterFormat" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testValuePrefix" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testPointFormat" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testPointFormatter" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testFollowPointer" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testFollowTouchMove" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testValueSuffix" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testXDateFormat" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testPadding" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testHeaderFormat" : "MarianoMartinezPeck 11/4/2016 19:32"
+	},
+	"class" : { }
+}

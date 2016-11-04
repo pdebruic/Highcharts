@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"testStartRow" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testGoogleSpreadsheetKey" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testCsv" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testParsed" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testGoogleSpreadsheetWorksheet" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testStartColumn" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testFirstRowAsNames" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testDecimalPoint" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testItemDelimiter" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testColumns" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testEndRow" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testComplete" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testParseDate" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testEndColumn" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testDateFormat" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testSeriesMapping" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testTable" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testSwitchRowsAndColumns" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testRows" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testLineDelimiter" : "MarianoMartinezPeck 11/4/2016 19:32"
+	},
+	"class" : { }
+}

@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"testAfterAnimate" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testHide" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testCheckboxClick" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testMouseOver" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testMouseOut" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testShow" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testLegendItemClick" : "MarianoMartinezPeck 11/4/2016 19:32",
+		"testClick" : "MarianoMartinezPeck 11/4/2016 19:32"
+	},
+	"class" : { }
+}
