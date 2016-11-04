@@ -1,5 +1,5 @@
 uploaded
-highchartsmore5dot0dot2Js
+highchartsMore5dot0dot2Js
 	^ '/*
  Highcharts JS v5.0.2 (2016-10-26)
 
