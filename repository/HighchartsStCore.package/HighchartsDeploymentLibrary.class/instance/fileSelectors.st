@@ -1,4 +1,4 @@
 accessing
 fileSelectors
 
-	^ #( highcharts3dot0dot9Js highchartsMore3dot0dot9Js )
+	^ #( highcharts5dot0dot2Js highchartsMore5dot0dot2Js )

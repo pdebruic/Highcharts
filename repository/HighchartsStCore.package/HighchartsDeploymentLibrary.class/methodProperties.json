@@ -1,9 +1,13 @@
 {
 	"instance" : {
-		"fileSelectors" : "MarianoMartinezPeck 2/21/2014 11:00",
 		"highcharts3dot0dot9Js" : "MaximilianoTabacman 2/19/2014 09:51",
-		"selectorsToInclude" : "MarianoMartinezPeck 2/21/2014 11:00",
-		"highchartsMore3dot0dot9Js" : "MaximilianoTabacman 2/19/2014 09:51"
+		"fileSelectors" : "MarianoMartinezPeck 11/4/2016 14:08",
+		"selectorsToInclude" : "MarianoMartinezPeck 11/4/2016 14:09",
+		"highchartsmore5dot0dot2Js" : "MarianoMartinezPeck 11/4/2016 14:07",
+		"highchartsMore3dot0dot9Js" : "MaximilianoTabacman 2/19/2014 09:51",
+		"highcharts5dot0dot2Js" : "MarianoMartinezPeck 11/4/2016 14:07"
 	},
-	"class" : { }
+	"class" : {
+		"fill" : "MarianoMartinezPeck 11/4/2016 14:05"
+	}
 }
