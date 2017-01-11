@@ -1,15 +1,12 @@
-as yet unclassified
+method creation
 createMethodIn: aSectionClass toSet: aMember
 
 	| memberName returnType description  |
 
-	memberName := self contentOf: 'span' classifiedAs: 'title' in: aMember.
-	memberName := memberName trimBlanks.
-	description := self contentOf: 'div' classifiedAs: 'description' in: aMember.
-	description := description copyReplaceAll: '"' with: ''''.
-	returnType := self contentOf: 'span' classifiedAs: 'returnType' in: aMember.
-	returnType := self formattedReturnTypeFrom: returnType.
-
+	memberName := self processedMemberNameOf: aMember.
+	description := self processedMemberDescriptionOf: aMember.
+	returnType := self processedMemberReturnTypeOf: aMember. 
+	
 	self createMethodIn: aSectionClass toSet: memberName with: returnType describedBy: description.
 
 	(aSectionClass includesSelector: (self setterNameFor: memberName))

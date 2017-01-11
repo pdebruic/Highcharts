@@ -1,16 +1,15 @@
-as yet unclassified
+class creation
 createClassAndMethodFor: aSection in: aClass
 
-	| description sectionName members sectionClass accessorName |
+	| members sectionClass accessorName processedSectionName processedSectionDescription |
 
-	sectionName := self nameOf: aSection.
-	description := self contentOf: 'div' classifiedAs: 'section-description' in: aSection.
-	description := description copyReplaceAll: '"' with: ''''.
-	sectionClass := self classNamed: (self nameForClassRelatedTo: sectionName).
-	accessorName := (sectionName subStrings: '.') last.
+	processedSectionName := self processedSectionNameOf: aSection.
+	processedSectionDescription :=  self processedSectionDescriptionOf: aSection.
+	sectionClass := self classNamed: (self nameForClassRelatedTo: processedSectionName).
+	accessorName := (processedSectionName subStrings: '.') last.
 
 	self registerAsUnusedAllMethodsIn: sectionClass.
-	self createMethodIn: aClass toAccess: accessorName with: sectionClass describedBy: description.
+	self createMethodIn: aClass toAccess: accessorName with: sectionClass describedBy: processedSectionDescription.
 
 	members := self membersOf: aSection.
 	members do: [:member | self createMethodIn: sectionClass for: member]

@@ -1,4 +1,4 @@
-as yet unclassified
+class creation
 createClassesAndMethods
 
 	self registerAsUnusedAllMethodsIn: self highchartsChartClass.

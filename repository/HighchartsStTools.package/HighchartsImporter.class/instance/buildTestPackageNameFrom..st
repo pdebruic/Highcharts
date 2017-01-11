@@ -1,4 +1,4 @@
-as yet unclassified
+tests creation
 buildTestPackageNameFrom: aClass
 
 	^ aClass package name asString, 'Tests' 

@@ -1,8 +1,8 @@
-as yet unclassified
+method creation
 createClassAndMethodForSectionOf: aMember in: aClass
 
-	[| memberSection |
-
+	[	
+		| memberSection |
 		memberSection := self sectionFor: aMember.
 		self createClassAndMethodFor: memberSection in: aClass
 

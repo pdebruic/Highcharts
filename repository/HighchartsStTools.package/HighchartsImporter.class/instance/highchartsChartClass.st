@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 highchartsChartClass
 
 	^self classNamed: self highchartsChartClassName

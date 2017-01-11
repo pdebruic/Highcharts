@@ -1,4 +1,4 @@
-as yet unclassified
+method creation
 createMethodIn: aClass toSet: aMemberName with: aReturnType describedBy: aDescription
 
 	| methodName methodStream |

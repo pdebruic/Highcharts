@@ -1,4 +1,4 @@
-as yet unclassified
+tests creation
 buildTestClassDefinitionFrom: aClass
 
 	^ 'TestCase subclass: ', (self buildTestClassNameFrom: aClass) printString, '

@@ -1,4 +1,4 @@
-as yet unclassified
+XML parsing
 nameOf: aSection
 
-	^(aSection allElementsNamed: 'h1') first nodes first string
+	^(aSection allElementsNamed: 'h1') first nodes first contentString

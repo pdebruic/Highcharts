@@ -1,4 +1,4 @@
-as yet unclassified
+XML parsing
 writeFlatContentOf: anXMLElement on: aStream
 
 ((anXMLElement isKindOf: XMLString) or: [ anXMLElement nodes isEmpty ]) 

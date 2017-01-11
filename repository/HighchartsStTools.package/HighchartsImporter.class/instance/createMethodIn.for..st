@@ -1,4 +1,4 @@
-as yet unclassified
+method creation
 createMethodIn: aSectionClass for: aMember
 
 	"Si existe un returnType entonces aMember es a su vez una sección declarada en rootElement,

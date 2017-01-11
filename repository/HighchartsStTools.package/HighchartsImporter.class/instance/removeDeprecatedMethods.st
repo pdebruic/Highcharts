@@ -1,4 +1,4 @@
-as yet unclassified
+deprecated methods
 removeDeprecatedMethods
 
 	deprecatedMethods keysAndValuesDo: [:className :selectors |
