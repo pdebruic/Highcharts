@@ -1,10 +1,10 @@
-as yet unclassified
+class creation
 nameForClassRelatedTo: aSectionName
 
 	| classNameStream |
 
 	classNameStream := WriteStream on: String new.
-	classNameStream nextPutAll: 'Highcharts'.
+	classNameStream nextPutAll: self productName.
 	self writeCapitalizedSubStringsOf: aSectionName on: classNameStream.
 
 	^classNameStream contents

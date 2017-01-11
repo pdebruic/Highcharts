@@ -1,8 +1,7 @@
-as yet unclassified
+method creation
 createMethodIn: aSectionClass toAccess: aMemberName with: aMemberClass describedBy: aDescription
 
 	| methodStream |
-
 	methodStream := WriteStream on: String new.
 	methodStream
 		nextPutAll: aMemberName;
@@ -11,7 +10,6 @@ createMethodIn: aSectionClass toAccess: aMemberName with: aMemberClass described
 	methodStream nextPutAll: (
 		'
 	^configurationOptions at: ''{1}'' ifAbsentPut: [{2} new]'
-			format: { aMemberName.
-			 aMemberClass name.} ).
+			format: { aMemberName. aMemberClass name.} ).
 
 	self compileContentsOf: methodStream asSourceOf: aMemberName asSymbol in: aSectionClass

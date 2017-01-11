@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 is: aSourceString equalTo: anotherSourceString
 
 	^(self methodNodeFor: aSourceString)

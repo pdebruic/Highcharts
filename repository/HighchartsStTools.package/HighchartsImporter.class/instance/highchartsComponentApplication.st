@@ -1,4 +1,0 @@
-as yet unclassified
-highchartsComponentApplication
-
-	^self highchartsComponentClass controller

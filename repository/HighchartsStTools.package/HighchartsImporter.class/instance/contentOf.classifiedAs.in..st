@@ -1,4 +1,4 @@
-as yet unclassified
+XML parsing
 contentOf: anXMLTag classifiedAs: anXMLClass in: anXMLElement
 
 	| stream |

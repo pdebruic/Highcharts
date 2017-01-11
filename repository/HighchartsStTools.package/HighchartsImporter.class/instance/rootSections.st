@@ -1,5 +1,9 @@
-as yet unclassified
+XML parsing
 rootSections
 
 	^rootElement nodes first nodes select: [:div |
-		(div attributeAt: 'class') = 'section' and: [((div attributeAt: 'id') includes: $-) not]]
+		
+		((div isKindOf: XMLString) not  and: [ (div attributeAt: 'class') = 'section' and: [((div attributeAt: 'id') includes: $-) not] ])
+			and: [ ((div attributeAt: 'id') = 'splashText') not ]
+		
+		]

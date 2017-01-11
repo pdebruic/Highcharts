@@ -1,4 +1,4 @@
-as yet unclassified
+method creation
 createTestMethodFor: aMemberName in: aSectionClass
 
 	| methodStream testClass |

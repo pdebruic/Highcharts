@@ -1,4 +1,4 @@
-as yet unclassified
+method creation
 writeCommentOn: methodStream using: aDescription
 
 	aDescription isEmpty
@@ -8,9 +8,5 @@ writeCommentOn: methodStream using: aDescription
 				tab;
 				nextPutAll: '"';
 				nextPutAll: aDescription;
-				cr;
-				tab;
-				nextPut: $-;
-				nextPutAll: "EmUser current uniqueName" 'user';
 				nextPutAll: '"';
 				cr]

@@ -1,4 +1,4 @@
-as yet unclassified
+deprecated methods
 registerAsUnusedAllMethodsIn: aClass
 
 	deprecatedMethods

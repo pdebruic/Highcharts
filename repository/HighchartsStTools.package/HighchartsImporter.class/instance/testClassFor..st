@@ -1,11 +1,11 @@
-as yet unclassified
+tests creation
 testClassFor: aSectionClass
 
 	
 | nautilus testClass className definition aClass|
 
-nautilus := AbstractNautilusUI new.
-aClass := aSectionClass.
+	nautilus := AbstractNautilusUI new.
+	aClass := aSectionClass.
 
 	className := nautilus buildTestClassNameFrom: aClass.
 	testClass := nautilus class environment 

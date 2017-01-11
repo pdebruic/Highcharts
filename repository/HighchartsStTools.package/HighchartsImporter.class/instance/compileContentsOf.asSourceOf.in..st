@@ -1,4 +1,4 @@
-as yet unclassified
+compiling
 compileContentsOf: aMethodSourceStream asSourceOf: aSelector in: aClass
 
 	((aClass includesSelector: aSelector)
