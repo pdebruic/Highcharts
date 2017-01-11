@@ -1,0 +1,33 @@
+{
+	"instance" : {
+		"testAnimation" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testFollowPointer" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testUseHTML" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testPointFormat" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testEnabled" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testPointFormatter" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testCrosshairs" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testFollowTouchMove" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testBackgroundColor" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testPadding" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testShared" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testBorderRadius" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testHeaderFormat" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testXDateFormat" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testDateTimeLabelFormats" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testSnap" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testSplit" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testChangeDecimals" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testValueDecimals" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testValuePrefix" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testShadow" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testValueSuffix" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testShape" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testPositioner" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testStyle" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testBorderColor" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testFormatter" : "MarianoMartinezPeck 1/11/2017 12:42",
+		"testBorderWidth" : "MarianoMartinezPeck 1/11/2017 12:42"
+	},
+	"class" : { }
+}
