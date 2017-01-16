@@ -1,4 +1,4 @@
 *HighchartsStCore
 highcharts
 
-^HighchartsNamespace new
+	^ HighchartsNamespace new
