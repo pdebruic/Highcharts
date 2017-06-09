@@ -1,3 +1,0 @@
-*HighchartsStExtensions
-configurationOptions
-	^ configurationOptions
