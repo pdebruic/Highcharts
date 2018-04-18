@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"symbolY:" : null,
+		"symbolStroke:" : null,
+		"menuClassName:" : null,
+		"onclick:" : null,
+		"symbolFill:" : null,
+		"text:" : null,
+		"symbolSize:" : null,
+		"y:" : null,
+		"width:" : null,
+		"height:" : null,
+		"menuItems:" : null,
+		"className:" : null,
+		"symbolX:" : null,
+		"_titleKey:" : null,
+		"x:" : null,
+		"symbolStrokeWidth:" : null,
+		"theme" : null,
+		"enabled:" : null,
+		"symbol:" : null,
+		"buttonSpacing:" : null,
+		"align:" : null,
+		"verticalAlign:" : null
+	},
+	"class" : { }
+}

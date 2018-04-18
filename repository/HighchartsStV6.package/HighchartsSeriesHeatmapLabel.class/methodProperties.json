@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"onArea:" : null,
+		"connectorNeighbourDistance:" : null,
+		"minFontSize:" : null,
+		"maxFontSize:" : null,
+		"connectorAllowed:" : null,
+		"style" : null,
+		"enabled:" : null,
+		"boxesToAvoid:" : null
+	},
+	"class" : { }
+}

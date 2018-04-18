@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"low:" : null,
+		"median:" : null,
+		"dataLabels:" : null,
+		"description:" : null,
+		"drilldown:" : null,
+		"y:" : null,
+		"color:" : null,
+		"colorIndex:" : null,
+		"className:" : null,
+		"name:" : null,
+		"high:" : null,
+		"events:" : null,
+		"x:" : null,
+		"selected:" : null,
+		"q1:" : null,
+		"id:" : null,
+		"labelrank:" : null,
+		"events" : null,
+		"q3:" : null
+	},
+	"class" : { }
+}
