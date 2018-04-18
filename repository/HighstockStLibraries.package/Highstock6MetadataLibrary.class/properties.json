@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WADeploymentAwareFileMetadataLibrary",
+	"category" : "HighstockStLibraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Highstock6MetadataLibrary",
+	"type" : "normal"
+}

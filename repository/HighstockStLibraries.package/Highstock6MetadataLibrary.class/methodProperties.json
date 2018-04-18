@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"selectorsToInclude" : null,
+		"csshighchartsCss" : null,
+		"csshighchartsCssContent" : null
+	},
+	"class" : {
+		"version" : null,
+		"libraryName" : null,
+		"forDeployment" : null,
+		"forDevelopment" : null
+	}
+}
