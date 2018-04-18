@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"lineWidth:" : null,
+		"width:" : null,
+		"symbols:" : null,
+		"height:" : null,
+		"enabled:" : null,
+		"backgroundColor:" : null,
+		"borderColor:" : null
+	},
+	"class" : { }
+}

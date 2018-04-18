@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"y:" : null,
+		"cursor:" : null,
+		"lineColor:" : null,
+		"lineDashStyle:" : null,
+		"controlledAxis" : null,
+		"enabled:" : null,
+		"lineWidth:" : null,
+		"x:" : null
+	},
+	"class" : { }
+}

@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"radius:" : null,
+		"lineColor:" : null,
+		"fillColor:" : null,
+		"enabled:" : null,
+		"lineWidth:" : null
+	},
+	"class" : { }
+}

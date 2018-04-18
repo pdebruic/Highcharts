@@ -1,0 +1,28 @@
+{
+	"instance" : {
+		"inputBoxHeight:" : null,
+		"buttonPosition" : null,
+		"buttonTheme" : null,
+		"inputBoxStyle:" : null,
+		"inputPosition" : null,
+		"y:" : null,
+		"height:" : null,
+		"inputEditDateFormat:" : null,
+		"inputStyle:" : null,
+		"inputDateFormat:" : null,
+		"allButtonsEnabled:" : null,
+		"inputBoxWidth:" : null,
+		"x:" : null,
+		"selected:" : null,
+		"inputEnabled:" : null,
+		"inputDateParser:" : null,
+		"inputBoxBorderColor:" : null,
+		"floating:" : null,
+		"labelStyle" : null,
+		"buttonSpacing:" : null,
+		"enabled:" : null,
+		"buttons" : null,
+		"verticalAlign:" : null
+	},
+	"class" : { }
+}

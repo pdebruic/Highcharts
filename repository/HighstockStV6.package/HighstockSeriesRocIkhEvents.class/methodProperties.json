@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"legendItemClick:" : null,
+		"afterAnimate:" : null,
+		"checkboxClick:" : null,
+		"click:" : null,
+		"mouseOver:" : null,
+		"hide:" : null,
+		"show:" : null,
+		"mouseOut:" : null
+	},
+	"class" : { }
+}

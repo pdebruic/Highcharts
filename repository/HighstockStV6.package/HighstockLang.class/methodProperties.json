@@ -1,0 +1,29 @@
+{
+	"instance" : {
+		"decimalPoint:" : null,
+		"downloadXLS:" : null,
+		"shortMonths:" : null,
+		"numericSymbolMagnitude:" : null,
+		"numericSymbols:" : null,
+		"invalidDate:" : null,
+		"months:" : null,
+		"downloadSVG:" : null,
+		"weekdays:" : null,
+		"downloadCSV:" : null,
+		"downloadPNG:" : null,
+		"downloadPDF:" : null,
+		"printChart:" : null,
+		"resetZoom:" : null,
+		"contextButtonTitle:" : null,
+		"shortWeekdays:" : null,
+		"rangeSelectorZoom:" : null,
+		"viewData:" : null,
+		"thousandsSep:" : null,
+		"loading:" : null,
+		"downloadJPEG:" : null,
+		"rangeSelectorTo:" : null,
+		"rangeSelectorFrom:" : null,
+		"resetZoomTitle:" : null
+	},
+	"class" : { }
+}

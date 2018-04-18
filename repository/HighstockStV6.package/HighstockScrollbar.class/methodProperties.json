@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"zIndex:" : null,
+		"liveRedraw:" : null,
+		"buttonBorderColor:" : null,
+		"buttonArrowColor:" : null,
+		"step:" : null,
+		"height:" : null,
+		"trackBackgroundColor:" : null,
+		"minWidth:" : null,
+		"trackBorderRadius:" : null,
+		"buttonBorderRadius:" : null,
+		"trackBorderColor:" : null,
+		"trackBorderWidth:" : null,
+		"rifleColor:" : null,
+		"barBorderRadius:" : null,
+		"showFull:" : null,
+		"buttonBorderWidth:" : null,
+		"barBorderColor:" : null,
+		"barBorderWidth:" : null,
+		"buttonBackgroundColor:" : null,
+		"barBackgroundColor:" : null,
+		"enabled:" : null,
+		"margin:" : null
+	},
+	"class" : { }
+}

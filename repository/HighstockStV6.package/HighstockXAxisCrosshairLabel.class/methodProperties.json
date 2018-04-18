@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"borderRadius:" : null,
+		"backgroundColor:" : null,
+		"padding:" : null,
+		"style:" : null,
+		"align:" : null,
+		"shape:" : null,
+		"format:" : null,
+		"borderWidth:" : null,
+		"borderColor:" : null,
+		"formatter:" : null
+	},
+	"class" : { }
+}

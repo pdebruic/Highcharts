@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"offsetMax:" : null,
+		"events" : null,
+		"offsetMin:" : null,
+		"type:" : null,
+		"count:" : null,
+		"text:" : null,
+		"events:" : null,
+		"dataGrouping:" : null
+	},
+	"class" : { }
+}

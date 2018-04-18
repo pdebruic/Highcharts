@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"brightness:" : null,
+		"animation" : null,
+		"color:" : null,
+		"borderWidth:" : null,
+		"enabled:" : null,
+		"lineWidth:" : null,
+		"borderColor:" : null
+	},
+	"class" : { }
+}

@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"remove:" : null,
+		"mouseOver:" : null,
+		"click:" : null,
+		"select:" : null,
+		"update:" : null,
+		"unselect:" : null,
+		"mouseOut:" : null
+	},
+	"class" : { }
+}

@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"symbolStrokeWidth:" : null,
+		"y:" : null,
+		"buttonSpacing:" : null,
+		"align:" : null,
+		"symbolX:" : null,
+		"symbolSize:" : null,
+		"symbolStroke:" : null,
+		"text:" : null,
+		"height:" : null,
+		"width:" : null,
+		"theme" : null,
+		"symbolFill:" : null,
+		"verticalAlign:" : null,
+		"symbolY:" : null,
+		"enabled:" : null
+	},
+	"class" : { }
+}

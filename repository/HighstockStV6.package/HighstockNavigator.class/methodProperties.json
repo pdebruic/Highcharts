@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"outlineWidth:" : null,
+		"maskFill:" : null,
+		"adaptToUpdatedData:" : null,
+		"outlineColor:" : null,
+		"series" : null,
+		"baseSeries:" : null,
+		"xAxis" : null,
+		"height:" : null,
+		"handles" : null,
+		"opposite:" : null,
+		"yAxis" : null,
+		"enabled:" : null,
+		"maskInside:" : null,
+		"margin:" : null
+	},
+	"class" : { }
+}

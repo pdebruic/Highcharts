@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"hideDelay:" : null,
+		"xDateFormat:" : null,
+		"padding:" : null,
+		"headerFormat:" : null,
+		"pointFormatter:" : null,
+		"distance:" : null,
+		"footerFormat:" : null,
+		"followPointer:" : null,
+		"dateTimeLabelFormats" : null,
+		"followTouchMove:" : null,
+		"split:" : null,
+		"pointFormat:" : null
+	},
+	"class" : { }
+}

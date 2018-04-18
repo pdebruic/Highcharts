@@ -1,0 +1,31 @@
+{
+	"instance" : {
+		"formatter:" : null,
+		"shape:" : null,
+		"verticalAlign:" : null,
+		"format:" : null,
+		"shadow:" : null,
+		"crop:" : null,
+		"padding:" : null,
+		"overflow:" : null,
+		"borderWidth:" : null,
+		"borderColor:" : null,
+		"defer:" : null,
+		"color:" : null,
+		"inside:" : null,
+		"y:" : null,
+		"className:" : null,
+		"filter" : null,
+		"x:" : null,
+		"backgroundColor:" : null,
+		"borderRadius:" : null,
+		"allowOverlap:" : null,
+		"useHTML:" : null,
+		"enabled:" : null,
+		"zIndex:" : null,
+		"style" : null,
+		"align:" : null,
+		"rotation:" : null
+	},
+	"class" : { }
+}

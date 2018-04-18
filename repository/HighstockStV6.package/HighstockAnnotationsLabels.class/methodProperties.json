@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"formatter:" : null,
+		"verticalAlign:" : null,
+		"format:" : null,
+		"shadow:" : null,
+		"crop:" : null,
+		"padding:" : null,
+		"overflow:" : null,
+		"borderWidth:" : null,
+		"distance:" : null,
+		"borderColor:" : null,
+		"text:" : null,
+		"y:" : null,
+		"point" : null,
+		"x:" : null,
+		"backgroundColor:" : null,
+		"borderRadius:" : null,
+		"useHTML:" : null,
+		"allowOverlap:" : null,
+		"style" : null,
+		"align:" : null,
+		"shape:" : null
+	},
+	"class" : { }
+}

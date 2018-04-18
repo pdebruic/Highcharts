@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"callback:" : null,
+		"maxWidth:" : null,
+		"maxHeight:" : null,
+		"minWidth:" : null,
+		"minHeight:" : null
+	},
+	"class" : { }
+}

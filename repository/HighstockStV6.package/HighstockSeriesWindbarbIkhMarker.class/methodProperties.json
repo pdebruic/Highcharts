@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"fillColor:" : null,
+		"radius:" : null,
+		"symbol:" : null,
+		"states" : null,
+		"states:" : null,
+		"height:" : null,
+		"width:" : null,
+		"lineWidth:" : null,
+		"enabled:" : null,
+		"lineColor:" : null
+	},
+	"class" : { }
+}

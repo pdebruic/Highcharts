@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"type:" : null,
+		"marker" : null,
+		"fillOpacity:" : null,
+		"className:" : null,
+		"dataLabels" : null,
+		"dataGrouping" : null,
+		"pointRange:" : null,
+		"id:" : null,
+		"threshold:" : null,
+		"lineWidth:" : null,
+		"lineColor:" : null
+	},
+	"class" : { }
+}

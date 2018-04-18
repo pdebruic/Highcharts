@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"padding:" : null,
+		"transition:" : null,
+		"fontSize:" : null,
+		"color:" : null,
+		"background:" : null
+	},
+	"class" : { }
+}

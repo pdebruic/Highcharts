@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"valueDecimals:" : null,
+		"hideDelay:" : null,
+		"valuePrefix:" : null,
+		"xDateFormat:" : null,
+		"padding:" : null,
+		"headerFormat:" : null,
+		"pointFormatter:" : null,
+		"valueSuffix:" : null,
+		"footerFormat:" : null,
+		"changeDecimals:" : null,
+		"followPointer:" : null,
+		"dateTimeLabelFormats" : null,
+		"followTouchMove:" : null,
+		"split:" : null,
+		"pointFormat:" : null
+	},
+	"class" : { }
+}
