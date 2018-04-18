@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"goldClosingPriceSeries" : null,
+		"getHighchartsAdaptedOHLCFor:" : null,
+		"renderContentOn:" : null,
+		"renderPricePerTroyOunce:" : null,
+		"goldHighestPriceSeries" : null,
+		"renderAppleOHLCCandleStickOn:" : null,
+		"goldOpeningPriceSeries" : null,
+		"goldLowestPriceSeries" : null,
+		"addAppleOHLCSeriesInto:" : null,
+		"goldPricesSeries" : null
+	},
+	"class" : {
+		"initialize" : null,
+		"register" : null
+	}
+}
