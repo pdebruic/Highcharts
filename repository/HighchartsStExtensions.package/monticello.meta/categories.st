@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #HighchartsStExtensions!
+SystemOrganization addCategory: 'HighchartsStExtensions'!

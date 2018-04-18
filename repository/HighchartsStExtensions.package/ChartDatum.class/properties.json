@@ -11,7 +11,8 @@
 	"instvars" : [
 		"xValue",
 		"name",
-		"yValue"
+		"yValue",
+		"colorsOptional"
 	],
 	"name" : "ChartDatum",
 	"type" : "normal"
