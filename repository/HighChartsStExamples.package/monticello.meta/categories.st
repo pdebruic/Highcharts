@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #HighchartsStExamples!
+SystemOrganization addCategory: 'HighchartsStExamples'!
