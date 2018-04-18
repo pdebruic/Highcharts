@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"endAngle:" : null,
+		"size:" : null,
+		"background" : null,
+		"startAngle:" : null,
+		"center:" : null
+	},
+	"class" : { }
+}

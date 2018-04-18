@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"labelrank:" : null,
+		"selected:" : null,
+		"y:" : null,
+		"className:" : null,
+		"events" : null,
+		"name:" : null,
+		"pointPadding:" : null,
+		"value:" : null,
+		"colorIndex:" : null,
+		"id:" : null,
+		"dataLabels:" : null,
+		"drilldown:" : null,
+		"events:" : null,
+		"color:" : null,
+		"x:" : null,
+		"description:" : null
+	},
+	"class" : { }
+}

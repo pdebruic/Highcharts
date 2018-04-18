@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"decimalPoint:" : null,
+		"endColumn:" : null,
+		"rows:" : null,
+		"table:" : null,
+		"parsed:" : null,
+		"startColumn:" : null,
+		"endRow:" : null,
+		"googleSpreadsheetWorksheet:" : null,
+		"complete:" : null,
+		"seriesMapping:" : null,
+		"csv:" : null,
+		"parseDate:" : null,
+		"dateFormat:" : null,
+		"googleSpreadsheetKey:" : null,
+		"startRow:" : null,
+		"columns:" : null,
+		"lineDelimiter:" : null,
+		"firstRowAsNames:" : null,
+		"itemDelimiter:" : null,
+		"switchRowsAndColumns:" : null
+	},
+	"class" : { }
+}

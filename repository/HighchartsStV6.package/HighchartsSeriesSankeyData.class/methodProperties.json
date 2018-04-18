@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"labelrank:" : null,
+		"selected:" : null,
+		"className:" : null,
+		"outgoing:" : null,
+		"events" : null,
+		"name:" : null,
+		"colorIndex:" : null,
+		"id:" : null,
+		"dataLabels:" : null,
+		"from:" : null,
+		"events:" : null,
+		"color:" : null,
+		"to:" : null,
+		"weight:" : null,
+		"description:" : null
+	},
+	"class" : { }
+}

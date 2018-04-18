@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"formatter:" : null,
+		"skew3d:" : null,
+		"format:" : null,
+		"distance:" : null,
+		"padding:" : null,
+		"overflow:" : null,
+		"step:" : null,
+		"reserveSpace:" : null,
+		"y:" : null,
+		"autoRotationLimit:" : null,
+		"x:" : null,
+		"position3d:" : null,
+		"useHTML:" : null,
+		"autoRotation:" : null,
+		"enabled:" : null,
+		"style:" : null,
+		"staggerLines:" : null,
+		"style" : null,
+		"zIndex:" : null,
+		"rotation:" : null,
+		"align:" : null
+	},
+	"class" : { }
+}

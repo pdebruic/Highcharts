@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"animation:" : null,
+		"inactiveColor:" : null,
+		"style:" : null,
+		"arrowSize:" : null,
+		"enabled:" : null,
+		"activeColor:" : null
+	},
+	"class" : { }
+}

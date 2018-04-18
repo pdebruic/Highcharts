@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"enabled:" : null,
+		"screenReaderSectionFormatter:" : null,
+		"onTableAnchorClick:" : null,
+		"describeSingleSeries:" : null,
+		"keyboardNavigation" : null,
+		"pointDescriptionThreshold:" : null,
+		"pointDescriptionFormatter:" : null,
+		"seriesDescriptionFormatter:" : null,
+		"pointDateFormat:" : null,
+		"pointDateFormatter:" : null
+	},
+	"class" : { }
+}

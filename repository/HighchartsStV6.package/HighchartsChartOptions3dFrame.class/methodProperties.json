@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"size:" : null,
+		"left" : null,
+		"visible:" : null,
+		"front" : null,
+		"right" : null,
+		"back" : null,
+		"side" : null,
+		"bottom" : null,
+		"top" : null
+	},
+	"class" : { }
+}

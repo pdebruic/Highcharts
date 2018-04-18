@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"itemDelimiter:" : null,
+		"columnHeaderFormatter:" : null,
+		"dateFormat:" : null,
+		"lineDelimiter:" : null
+	},
+	"class" : { }
+}

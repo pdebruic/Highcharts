@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"depth:" : null,
+		"alpha:" : null,
+		"fitToPlot:" : null,
+		"frame" : null,
+		"viewDistance:" : null,
+		"beta:" : null,
+		"enabled:" : null,
+		"axisLabelPosition:" : null
+	},
+	"class" : { }
+}
