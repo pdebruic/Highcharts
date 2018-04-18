@@ -1,4 +1,6 @@
 {
-	"instance" : { },
+	"instance" : {
+		"javascriptContentOn:" : null
+	},
 	"class" : { }
 }

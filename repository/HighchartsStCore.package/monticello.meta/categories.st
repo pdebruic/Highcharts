@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #HighchartsStCore!
+SystemOrganization addCategory: 'HighchartsStCore'!
