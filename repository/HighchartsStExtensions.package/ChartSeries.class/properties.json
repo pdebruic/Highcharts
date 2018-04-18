@@ -8,7 +8,8 @@
 	"instvars" : [
 		"name",
 		"data",
-		"configuration"
+		"additionalConfigurationCommand",
+		"chartSeriesSelector"
 	],
 	"name" : "ChartSeries",
 	"type" : "normal"

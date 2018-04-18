@@ -1,14 +1,19 @@
 {
 	"instance" : {
-		"value" : "MaximilianoTabacman 2/27/2014 16:31",
-		"yValue" : "MaximilianoTabacman 2/27/2014 16:32",
-		"category" : "MaximilianoTabacman 2/27/2014 16:30",
-		"xValue" : "MaximilianoTabacman 2/27/2014 16:30",
-		"name" : "MaximilianoTabacman 2/27/2014 16:32",
-		"initializeNamed:locatedAt:and:" : "MaximilianoTabacman 2/27/2014 16:32"
+		"value" : null,
+		"yValue" : null,
+		"printOn:" : null,
+		"category" : null,
+		"withColorDo:" : null,
+		"initializeNamed:locatedAt:and:colorOptional:" : null,
+		"xValue" : null,
+		"name" : null
 	},
 	"class" : {
-		"belongingTo:withValue:" : "MaximilianoTabacman 2/27/2014 16:31",
-		"named:locatedAt:and:" : "MaximilianoTabacman 2/27/2014 16:31"
+		"belongingTo:withValue:" : null,
+		"named:locatedAt:and:colorOptional:" : null,
+		"named:locatedAt:and:toBeColoredUsing:" : null,
+		"named:locatedAt:and:" : null,
+		"belongingTo:withValue:toBeColoredUsing:" : null
 	}
 }
