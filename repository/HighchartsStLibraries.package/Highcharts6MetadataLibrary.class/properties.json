@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WADeploymentAwareFileMetadataLibrary",
+	"category" : "HighchartsStLibraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Highcharts6MetadataLibrary",
+	"type" : "normal"
+}

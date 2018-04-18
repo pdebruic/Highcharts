@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"selectorsToInclude" : null
+	},
+	"class" : {
+		"version" : null,
+		"libraryName" : null,
+		"forDeployment" : null,
+		"forDevelopment" : null
+	}
+}
