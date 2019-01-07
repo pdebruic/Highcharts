@@ -1,7 +1,7 @@
 {
 	"instance" : {
-		"version" : null,
-		"updateRoot:" : null
+		"version" : "",
+		"updateRoot:" : ""
 	},
 	"class" : { }
 }
