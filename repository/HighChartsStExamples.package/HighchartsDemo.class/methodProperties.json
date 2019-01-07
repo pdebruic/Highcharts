@@ -1,17 +1,17 @@
 {
 	"instance" : {
-		"goldHighestPriceSeries" : null,
-		"renderBarGovermentComputersChartOn:" : null,
-		"goldLowestPriceSeries" : null,
-		"goldOpeningPriceSeries" : null,
-		"goldPricesSeries" : null,
-		"govermentComputersSeries" : null,
-		"renderContentOn:" : null,
-		"goldClosingPriceSeries" : null,
-		"renderPricePerTroyOunce:" : null
+		"goldHighestPriceSeries" : "",
+		"renderBarGovermentComputersChartOn:" : "",
+		"goldLowestPriceSeries" : "",
+		"goldOpeningPriceSeries" : "",
+		"goldPricesSeries" : "",
+		"govermentComputersSeries" : "",
+		"renderContentOn:" : "",
+		"goldClosingPriceSeries" : "",
+		"renderPricePerTroyOunce:" : ""
 	},
 	"class" : {
-		"initialize" : null,
-		"register" : null
+		"initialize" : "",
+		"register" : ""
 	}
 }
