@@ -1,15 +1,15 @@
 {
 	"instance" : {
-		"y:" : null,
-		"useHTML:" : null,
-		"style:" : null,
-		"align:" : null,
-		"widthAdjust:" : null,
-		"floating:" : null,
-		"text:" : null,
-		"x:" : null,
-		"verticalAlign:" : null,
-		"margin:" : null
+		"y:" : "",
+		"useHTML:" : "",
+		"style:" : "",
+		"align:" : "",
+		"widthAdjust:" : "",
+		"floating:" : "",
+		"text:" : "",
+		"x:" : "",
+		"verticalAlign:" : "",
+		"margin:" : ""
 	},
 	"class" : { }
 }

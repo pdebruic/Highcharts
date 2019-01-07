@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"verticalAlign:" : null,
-		"y:" : null,
-		"x:" : null,
-		"align:" : null
+		"verticalAlign:" : "",
+		"y:" : "",
+		"x:" : "",
+		"align:" : ""
 	},
 	"class" : { }
 }

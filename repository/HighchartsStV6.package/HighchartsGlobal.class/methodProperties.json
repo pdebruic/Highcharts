@@ -1,12 +1,12 @@
 {
 	"instance" : {
-		"VMLRadialGradientURL:" : null,
-		"Date:" : null,
-		"getTimezoneOffset:" : null,
-		"timezone:" : null,
-		"timezoneOffset:" : null,
-		"canvasToolsURL:" : null,
-		"useUTC:" : null
+		"VMLRadialGradientURL:" : "",
+		"Date:" : "",
+		"getTimezoneOffset:" : "",
+		"timezone:" : "",
+		"timezoneOffset:" : "",
+		"canvasToolsURL:" : "",
+		"useUTC:" : ""
 	},
 	"class" : { }
 }

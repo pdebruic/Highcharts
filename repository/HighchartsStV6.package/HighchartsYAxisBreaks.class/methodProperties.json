@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"to:" : null,
-		"breakSize:" : null,
-		"repeat:" : null,
-		"from:" : null
+		"to:" : "",
+		"breakSize:" : "",
+		"repeat:" : "",
+		"from:" : ""
 	},
 	"class" : { }
 }

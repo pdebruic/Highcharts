@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"seriesThreshold:" : null,
-		"debug" : null,
-		"useGPUTranslations:" : null,
-		"allowForce:" : null,
-		"enabled:" : null
+		"seriesThreshold:" : "",
+		"debug" : "",
+		"useGPUTranslations:" : "",
+		"allowForce:" : "",
+		"enabled:" : ""
 	},
 	"class" : { }
 }

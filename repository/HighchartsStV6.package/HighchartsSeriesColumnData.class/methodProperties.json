@@ -1,19 +1,19 @@
 {
 	"instance" : {
-		"labelrank:" : null,
-		"selected:" : null,
-		"y:" : null,
-		"className:" : null,
-		"events" : null,
-		"name:" : null,
-		"x:" : null,
-		"colorIndex:" : null,
-		"id:" : null,
-		"dataLabels:" : null,
-		"drilldown:" : null,
-		"events:" : null,
-		"color:" : null,
-		"description:" : null
+		"labelrank:" : "",
+		"selected:" : "",
+		"y:" : "",
+		"className:" : "",
+		"events" : "",
+		"name:" : "",
+		"x:" : "",
+		"colorIndex:" : "",
+		"id:" : "",
+		"dataLabels:" : "",
+		"drilldown:" : "",
+		"events:" : "",
+		"color:" : "",
+		"description:" : ""
 	},
 	"class" : { }
 }

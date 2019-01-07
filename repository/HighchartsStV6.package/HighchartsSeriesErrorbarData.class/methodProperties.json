@@ -1,18 +1,18 @@
 {
 	"instance" : {
-		"labelrank:" : null,
-		"selected:" : null,
-		"className:" : null,
-		"high:" : null,
-		"low:" : null,
-		"events" : null,
-		"name:" : null,
-		"x:" : null,
-		"colorIndex:" : null,
-		"id:" : null,
-		"events:" : null,
-		"color:" : null,
-		"description:" : null
+		"labelrank:" : "",
+		"selected:" : "",
+		"className:" : "",
+		"high:" : "",
+		"low:" : "",
+		"events" : "",
+		"name:" : "",
+		"x:" : "",
+		"colorIndex:" : "",
+		"id:" : "",
+		"events:" : "",
+		"color:" : "",
+		"description:" : ""
 	},
 	"class" : { }
 }

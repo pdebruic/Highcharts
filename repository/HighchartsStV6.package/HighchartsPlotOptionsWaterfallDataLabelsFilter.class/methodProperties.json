@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"operator:" : null,
-		"property:" : null,
-		"value:" : null
+		"operator:" : "",
+		"property:" : "",
+		"value:" : ""
 	},
 	"class" : { }
 }

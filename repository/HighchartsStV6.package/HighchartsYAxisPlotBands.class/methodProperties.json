@@ -1,18 +1,18 @@
 {
 	"instance" : {
-		"label" : null,
-		"thickness:" : null,
-		"className:" : null,
-		"borderWidth:" : null,
-		"zIndex:" : null,
-		"id:" : null,
-		"from:" : null,
-		"borderColor:" : null,
-		"events:" : null,
-		"color:" : null,
-		"to:" : null,
-		"outerRadius:" : null,
-		"innerRadius:" : null
+		"label" : "",
+		"thickness:" : "",
+		"className:" : "",
+		"borderWidth:" : "",
+		"zIndex:" : "",
+		"id:" : "",
+		"from:" : "",
+		"borderColor:" : "",
+		"events:" : "",
+		"color:" : "",
+		"to:" : "",
+		"outerRadius:" : "",
+		"innerRadius:" : ""
 	},
 	"class" : { }
 }

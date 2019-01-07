@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"attributes" : null,
-		"opacity:" : null,
-		"size:" : null,
-		"enabled:" : null
+		"attributes" : "",
+		"opacity:" : "",
+		"size:" : "",
+		"enabled:" : ""
 	},
 	"class" : { }
 }

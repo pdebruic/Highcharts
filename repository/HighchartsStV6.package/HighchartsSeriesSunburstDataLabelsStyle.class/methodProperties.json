@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"fontSize:" : null,
-		"fontWeight:" : null,
-		"color:" : null,
-		"textOutline:" : null,
-		"textOverflow:" : null
+		"fontSize:" : "",
+		"fontWeight:" : "",
+		"color:" : "",
+		"textOutline:" : "",
+		"textOverflow:" : ""
 	},
 	"class" : { }
 }

@@ -1,16 +1,16 @@
 {
 	"instance" : {
-		"render:" : null,
-		"addSeries:" : null,
-		"drillupall:" : null,
-		"selection:" : null,
-		"load:" : null,
-		"drilldown:" : null,
-		"afterPrint:" : null,
-		"drillup:" : null,
-		"beforePrint:" : null,
-		"redraw:" : null,
-		"click:" : null
+		"render:" : "",
+		"addSeries:" : "",
+		"drillupall:" : "",
+		"selection:" : "",
+		"load:" : "",
+		"drilldown:" : "",
+		"afterPrint:" : "",
+		"drillup:" : "",
+		"beforePrint:" : "",
+		"redraw:" : "",
+		"click:" : ""
 	},
 	"class" : { }
 }

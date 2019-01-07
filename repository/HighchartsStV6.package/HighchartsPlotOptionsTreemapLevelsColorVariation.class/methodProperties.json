@@ -1,7 +1,7 @@
 {
 	"instance" : {
-		"key:" : null,
-		"to:" : null
+		"key:" : "",
+		"to:" : ""
 	},
 	"class" : { }
 }

@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"to:" : null,
-		"orientations:" : null,
-		"from:" : null
+		"to:" : "",
+		"orientations:" : "",
+		"from:" : ""
 	},
 	"class" : { }
 }

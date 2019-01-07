@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"background:" : null,
-		"padding:" : null,
-		"border:" : null
+		"background:" : "",
+		"padding:" : "",
+		"border:" : ""
 	},
 	"class" : { }
 }

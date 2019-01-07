@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"backgroundColor:" : null,
-		"position:" : null,
-		"opacity:" : null,
-		"textAlign:" : null
+		"backgroundColor:" : "",
+		"position:" : "",
+		"opacity:" : "",
+		"textAlign:" : ""
 	},
 	"class" : { }
 }

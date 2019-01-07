@@ -1,15 +1,15 @@
 {
 	"instance" : {
-		"enabled:" : null,
-		"screenReaderSectionFormatter:" : null,
-		"onTableAnchorClick:" : null,
-		"describeSingleSeries:" : null,
-		"keyboardNavigation" : null,
-		"pointDescriptionThreshold:" : null,
-		"pointDescriptionFormatter:" : null,
-		"seriesDescriptionFormatter:" : null,
-		"pointDateFormat:" : null,
-		"pointDateFormatter:" : null
+		"enabled:" : "",
+		"screenReaderSectionFormatter:" : "",
+		"onTableAnchorClick:" : "",
+		"describeSingleSeries:" : "",
+		"keyboardNavigation" : "",
+		"pointDescriptionThreshold:" : "",
+		"pointDescriptionFormatter:" : "",
+		"seriesDescriptionFormatter:" : "",
+		"pointDateFormat:" : "",
+		"pointDateFormatter:" : ""
 	},
 	"class" : { }
 }

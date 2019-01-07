@@ -1,17 +1,17 @@
 {
 	"instance" : {
-		"style" : null,
-		"useHTML:" : null,
-		"y:" : null,
-		"rotation:" : null,
-		"align:" : null,
-		"textAlign:" : null,
-		"format:" : null,
-		"x:" : null,
-		"allowOverlap:" : null,
-		"formatter:" : null,
-		"verticalAlign:" : null,
-		"enabled:" : null
+		"style" : "",
+		"useHTML:" : "",
+		"y:" : "",
+		"rotation:" : "",
+		"align:" : "",
+		"textAlign:" : "",
+		"format:" : "",
+		"x:" : "",
+		"allowOverlap:" : "",
+		"formatter:" : "",
+		"verticalAlign:" : "",
+		"enabled:" : ""
 	},
 	"class" : { }
 }

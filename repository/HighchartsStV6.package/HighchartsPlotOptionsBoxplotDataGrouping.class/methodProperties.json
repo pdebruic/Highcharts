@@ -1,12 +1,12 @@
 {
 	"instance" : {
-		"dateTimeLabelFormats:" : null,
-		"units:" : null,
-		"smoothed:" : null,
-		"approximation:" : null,
-		"forced:" : null,
-		"enabled:" : null,
-		"groupPixelWidth:" : null
+		"dateTimeLabelFormats:" : "",
+		"units:" : "",
+		"smoothed:" : "",
+		"approximation:" : "",
+		"forced:" : "",
+		"enabled:" : "",
+		"groupPixelWidth:" : ""
 	},
 	"class" : { }
 }

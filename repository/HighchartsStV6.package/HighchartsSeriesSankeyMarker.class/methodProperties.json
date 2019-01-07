@@ -1,15 +1,15 @@
 {
 	"instance" : {
-		"fillColor:" : null,
-		"radius:" : null,
-		"symbol:" : null,
-		"states" : null,
-		"states:" : null,
-		"height:" : null,
-		"width:" : null,
-		"lineWidth:" : null,
-		"enabled:" : null,
-		"lineColor:" : null
+		"fillColor:" : "",
+		"radius:" : "",
+		"symbol:" : "",
+		"states" : "",
+		"states:" : "",
+		"height:" : "",
+		"width:" : "",
+		"lineWidth:" : "",
+		"enabled:" : "",
+		"lineColor:" : ""
 	},
 	"class" : { }
 }

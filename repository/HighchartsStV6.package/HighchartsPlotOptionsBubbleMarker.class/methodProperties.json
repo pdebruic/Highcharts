@@ -1,11 +1,11 @@
 {
 	"instance" : {
-		"states:" : null,
-		"lineColor:" : null,
-		"symbol:" : null,
-		"fillColor:" : null,
-		"lineWidth:" : null,
-		"states" : null
+		"states:" : "",
+		"lineColor:" : "",
+		"symbol:" : "",
+		"fillColor:" : "",
+		"lineWidth:" : "",
+		"states" : ""
 	},
 	"class" : { }
 }

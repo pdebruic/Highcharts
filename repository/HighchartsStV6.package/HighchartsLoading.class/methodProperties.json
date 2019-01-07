@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"hideDuration:" : null,
-		"style" : null,
-		"showDuration:" : null,
-		"labelStyle" : null
+		"hideDuration:" : "",
+		"style" : "",
+		"showDuration:" : "",
+		"labelStyle" : ""
 	},
 	"class" : { }
 }

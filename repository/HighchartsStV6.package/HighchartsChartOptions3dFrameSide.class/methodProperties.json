@@ -1,7 +1,7 @@
 {
 	"instance" : {
-		"color:" : null,
-		"size:" : null
+		"color:" : "",
+		"size:" : ""
 	},
 	"class" : { }
 }

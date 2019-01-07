@@ -1,11 +1,11 @@
 {
 	"instance" : {
-		"width:" : null,
-		"dashStyle:" : null,
-		"snap:" : null,
-		"color:" : null,
-		"className:" : null,
-		"zIndex:" : null
+		"width:" : "",
+		"dashStyle:" : "",
+		"snap:" : "",
+		"color:" : "",
+		"className:" : "",
+		"zIndex:" : ""
 	},
 	"class" : { }
 }

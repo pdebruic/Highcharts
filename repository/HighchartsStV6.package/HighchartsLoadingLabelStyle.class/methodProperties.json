@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"fontWeight:" : null,
-		"position:" : null,
-		"top:" : null
+		"fontWeight:" : "",
+		"position:" : "",
+		"top:" : ""
 	},
 	"class" : { }
 }
