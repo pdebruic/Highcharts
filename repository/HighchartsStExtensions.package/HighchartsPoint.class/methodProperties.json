@@ -1,16 +1,16 @@
 {
 	"instance" : {
-		"y:" : null,
-		"high:" : null,
-		"low:" : null,
-		"dataLabels" : null,
-		"x:" : null,
-		"name:" : null,
-		"id:" : null,
-		"dataLabels:" : null,
-		"legendIndex:" : null,
-		"color:" : null,
-		"sliced:" : null
+		"y:" : "",
+		"high:" : "",
+		"low:" : "",
+		"dataLabels" : "",
+		"x:" : "",
+		"name:" : "",
+		"id:" : "",
+		"dataLabels:" : "",
+		"legendIndex:" : "",
+		"color:" : "",
+		"sliced:" : ""
 	},
 	"class" : { }
 }
