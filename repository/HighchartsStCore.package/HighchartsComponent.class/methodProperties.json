@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"initialize" : null,
-		"configurationOptions" : null,
-		"javascriptContentOn:" : null
+		"initialize" : "",
+		"configurationOptions" : "",
+		"javascriptContentOn:" : ""
 	},
 	"class" : { }
 }
