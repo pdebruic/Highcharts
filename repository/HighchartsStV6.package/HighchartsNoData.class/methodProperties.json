@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"attr:" : null,
-		"style" : null,
-		"position" : null,
-		"useHTML:" : null
+		"attr:" : "",
+		"style" : "",
+		"position" : "",
+		"useHTML:" : ""
 	},
 	"class" : { }
 }

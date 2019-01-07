@@ -1,6 +1,6 @@
 {
 	"instance" : {
-		"skipNullPoints:" : null
+		"skipNullPoints:" : ""
 	},
 	"class" : { }
 }

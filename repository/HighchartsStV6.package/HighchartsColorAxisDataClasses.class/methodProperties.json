@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"name:" : null,
-		"color:" : null,
-		"to:" : null,
-		"from:" : null
+		"name:" : "",
+		"color:" : "",
+		"to:" : "",
+		"from:" : ""
 	},
 	"class" : { }
 }

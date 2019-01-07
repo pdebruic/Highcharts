@@ -1,15 +1,15 @@
 {
 	"instance" : {
-		"label" : null,
-		"className:" : null,
-		"zIndex:" : null,
-		"borderWidth:" : null,
-		"id:" : null,
-		"to:" : null,
-		"from:" : null,
-		"events:" : null,
-		"color:" : null,
-		"borderColor:" : null
+		"label" : "",
+		"className:" : "",
+		"zIndex:" : "",
+		"borderWidth:" : "",
+		"id:" : "",
+		"to:" : "",
+		"from:" : "",
+		"events:" : "",
+		"color:" : "",
+		"borderColor:" : ""
 	},
 	"class" : { }
 }

@@ -1,20 +1,20 @@
 {
 	"instance" : {
-		"symbolStrokeWidth:" : null,
-		"y:" : null,
-		"buttonSpacing:" : null,
-		"align:" : null,
-		"symbolX:" : null,
-		"symbolSize:" : null,
-		"symbolStroke:" : null,
-		"text:" : null,
-		"height:" : null,
-		"width:" : null,
-		"theme" : null,
-		"symbolFill:" : null,
-		"verticalAlign:" : null,
-		"symbolY:" : null,
-		"enabled:" : null
+		"symbolStrokeWidth:" : "",
+		"y:" : "",
+		"buttonSpacing:" : "",
+		"align:" : "",
+		"symbolX:" : "",
+		"symbolSize:" : "",
+		"symbolStroke:" : "",
+		"text:" : "",
+		"height:" : "",
+		"width:" : "",
+		"theme" : "",
+		"symbolFill:" : "",
+		"verticalAlign:" : "",
+		"symbolY:" : "",
+		"enabled:" : ""
 	},
 	"class" : { }
 }

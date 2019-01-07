@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"width:" : null,
-		"color:" : null,
-		"borderWidth:" : null,
-		"height:" : null,
-		"borderColor:" : null
+		"width:" : "",
+		"color:" : "",
+		"borderWidth:" : "",
+		"height:" : "",
+		"borderColor:" : ""
 	},
 	"class" : { }
 }

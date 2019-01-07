@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"backgroundColor:" : null,
-		"borderColor:" : null,
-		"borderWidth:" : null,
-		"radius:" : null
+		"backgroundColor:" : "",
+		"borderColor:" : "",
+		"borderWidth:" : "",
+		"radius:" : ""
 	},
 	"class" : { }
 }

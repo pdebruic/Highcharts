@@ -1,13 +1,13 @@
 {
 	"instance" : {
-		"baseWidth:" : null,
-		"radius:" : null,
-		"rearLength:" : null,
-		"baseLength:" : null,
-		"borderWidth:" : null,
-		"topWidth:" : null,
-		"backgroundColor:" : null,
-		"borderColor:" : null
+		"baseWidth:" : "",
+		"radius:" : "",
+		"rearLength:" : "",
+		"baseLength:" : "",
+		"borderWidth:" : "",
+		"topWidth:" : "",
+		"backgroundColor:" : "",
+		"borderColor:" : ""
 	},
 	"class" : { }
 }

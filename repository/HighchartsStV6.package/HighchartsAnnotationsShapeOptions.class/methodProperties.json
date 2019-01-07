@@ -1,12 +1,12 @@
 {
 	"instance" : {
-		"width:" : null,
-		"type:" : null,
-		"strokeWidth:" : null,
-		"fill:" : null,
-		"stroke:" : null,
-		"height:" : null,
-		"r:" : null
+		"width:" : "",
+		"type:" : "",
+		"strokeWidth:" : "",
+		"fill:" : "",
+		"stroke:" : "",
+		"height:" : "",
+		"r:" : ""
 	},
 	"class" : { }
 }

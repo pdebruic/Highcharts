@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"fontSize:" : null,
-		"fontWeight:" : null,
-		"color:" : null,
-		"textOutline:" : null
+		"fontSize:" : "",
+		"fontWeight:" : "",
+		"color:" : "",
+		"textOutline:" : ""
 	},
 	"class" : { }
 }
