@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"cursor:" : null,
-		"fontSize:" : null,
-		"color:" : null
+		"cursor:" : "",
+		"fontSize:" : "",
+		"color:" : ""
 	},
 	"class" : { }
 }

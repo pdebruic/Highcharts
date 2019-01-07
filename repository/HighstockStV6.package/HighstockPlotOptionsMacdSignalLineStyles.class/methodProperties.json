@@ -1,7 +1,7 @@
 {
 	"instance" : {
-		"lineColor:" : null,
-		"lineWidth:" : null
+		"lineColor:" : "",
+		"lineWidth:" : ""
 	},
 	"class" : { }
 }

@@ -1,16 +1,16 @@
 {
 	"instance" : {
-		"type:" : null,
-		"marker" : null,
-		"fillOpacity:" : null,
-		"className:" : null,
-		"dataLabels" : null,
-		"dataGrouping" : null,
-		"pointRange:" : null,
-		"id:" : null,
-		"threshold:" : null,
-		"lineWidth:" : null,
-		"lineColor:" : null
+		"type:" : "",
+		"marker" : "",
+		"fillOpacity:" : "",
+		"className:" : "",
+		"dataLabels" : "",
+		"dataGrouping" : "",
+		"pointRange:" : "",
+		"id:" : "",
+		"threshold:" : "",
+		"lineWidth:" : "",
+		"lineColor:" : ""
 	},
 	"class" : { }
 }

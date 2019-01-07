@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"signalPeriod:" : null,
-		"shortPeriod:" : null,
-		"longPeriod:" : null,
-		"period:" : null,
-		"index:" : null
+		"signalPeriod:" : "",
+		"shortPeriod:" : "",
+		"longPeriod:" : "",
+		"period:" : "",
+		"index:" : ""
 	},
 	"class" : { }
 }

@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"y:" : null,
-		"x:" : null,
-		"align:" : null
+		"y:" : "",
+		"x:" : "",
+		"align:" : ""
 	},
 	"class" : { }
 }

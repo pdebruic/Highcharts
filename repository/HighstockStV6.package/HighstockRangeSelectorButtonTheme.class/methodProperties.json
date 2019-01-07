@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"width:" : null,
-		"padding:" : null,
-		"height:" : null,
-		"undefined:" : null,
-		"zIndex:" : null
+		"width:" : "",
+		"padding:" : "",
+		"height:" : "",
+		"undefined:" : "",
+		"zIndex:" : ""
 	},
 	"class" : { }
 }

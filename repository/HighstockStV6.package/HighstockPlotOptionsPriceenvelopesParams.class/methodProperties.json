@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"topBand:" : null,
-		"bottomBand:" : null,
-		"period:" : null,
-		"index:" : null
+		"topBand:" : "",
+		"bottomBand:" : "",
+		"period:" : "",
+		"index:" : ""
 	},
 	"class" : { }
 }

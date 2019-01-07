@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"fontSize:" : null,
-		"fontWeight:" : null,
-		"color:" : null
+		"fontSize:" : "",
+		"fontWeight:" : "",
+		"color:" : ""
 	},
 	"class" : { }
 }

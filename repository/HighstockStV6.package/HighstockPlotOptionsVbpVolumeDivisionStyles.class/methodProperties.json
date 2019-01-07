@@ -1,7 +1,7 @@
 {
 	"instance" : {
-		"negativeColor:" : null,
-		"positiveColor:" : null
+		"negativeColor:" : "",
+		"positiveColor:" : ""
 	},
 	"class" : { }
 }

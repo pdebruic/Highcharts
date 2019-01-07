@@ -1,11 +1,11 @@
 {
 	"instance" : {
-		"VMLRadialGradientURL:" : null,
-		"timezoneOffset:" : null,
-		"getTimezoneOffset:" : null,
-		"Date:" : null,
-		"timezone:" : null,
-		"useUTC:" : null
+		"VMLRadialGradientURL:" : "",
+		"timezoneOffset:" : "",
+		"getTimezoneOffset:" : "",
+		"Date:" : "",
+		"timezone:" : "",
+		"useUTC:" : ""
 	},
 	"class" : { }
 }

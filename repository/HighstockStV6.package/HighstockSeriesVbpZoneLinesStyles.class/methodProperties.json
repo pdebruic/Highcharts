@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"dashStyle:" : null,
-		"color:" : null,
-		"lineWidth:" : null
+		"dashStyle:" : "",
+		"color:" : "",
+		"lineWidth:" : ""
 	},
 	"class" : { }
 }

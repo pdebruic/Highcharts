@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"periodTenkan:" : null,
-		"periodSenkouSpanB:" : null,
-		"period:" : null,
-		"index:" : null
+		"periodTenkan:" : "",
+		"periodSenkouSpanB:" : "",
+		"period:" : "",
+		"index:" : ""
 	},
 	"class" : { }
 }

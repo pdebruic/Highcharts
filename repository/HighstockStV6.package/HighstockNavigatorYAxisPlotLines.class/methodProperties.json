@@ -1,14 +1,14 @@
 {
 	"instance" : {
-		"width:" : null,
-		"value:" : null,
-		"dashStyle:" : null,
-		"id:" : null,
-		"color:" : null,
-		"className:" : null,
-		"zIndex:" : null,
-		"events:" : null,
-		"label" : null
+		"width:" : "",
+		"value:" : "",
+		"dashStyle:" : "",
+		"id:" : "",
+		"color:" : "",
+		"className:" : "",
+		"zIndex:" : "",
+		"events:" : "",
+		"label" : ""
 	},
 	"class" : { }
 }

@@ -1,12 +1,12 @@
 {
 	"instance" : {
-		"lineWidth:" : null,
-		"width:" : null,
-		"symbols:" : null,
-		"height:" : null,
-		"enabled:" : null,
-		"backgroundColor:" : null,
-		"borderColor:" : null
+		"lineWidth:" : "",
+		"width:" : "",
+		"symbols:" : "",
+		"height:" : "",
+		"enabled:" : "",
+		"backgroundColor:" : "",
+		"borderColor:" : ""
 	},
 	"class" : { }
 }

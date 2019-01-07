@@ -1,11 +1,11 @@
 {
 	"instance" : {
-		"timeBufferCopy:" : null,
-		"showSkipSummary:" : null,
-		"timeKDTree:" : null,
-		"timeSeriesProcessing:" : null,
-		"timeRendering:" : null,
-		"timeSetup:" : null
+		"timeBufferCopy:" : "",
+		"showSkipSummary:" : "",
+		"timeKDTree:" : "",
+		"timeSeriesProcessing:" : "",
+		"timeRendering:" : "",
+		"timeSetup:" : ""
 	},
 	"class" : { }
 }

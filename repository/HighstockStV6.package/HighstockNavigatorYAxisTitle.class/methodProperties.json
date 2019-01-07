@@ -1,18 +1,18 @@
 {
 	"instance" : {
-		"style" : null,
-		"useHTML:" : null,
-		"y:" : null,
-		"rotation:" : null,
-		"reserveSpace:" : null,
-		"align:" : null,
-		"skew3d:" : null,
-		"text:" : null,
-		"offset:" : null,
-		"x:" : null,
-		"position3d:" : null,
-		"enabled:" : null,
-		"margin:" : null
+		"style" : "",
+		"useHTML:" : "",
+		"y:" : "",
+		"rotation:" : "",
+		"reserveSpace:" : "",
+		"align:" : "",
+		"skew3d:" : "",
+		"text:" : "",
+		"offset:" : "",
+		"x:" : "",
+		"position3d:" : "",
+		"enabled:" : "",
+		"margin:" : ""
 	},
 	"class" : { }
 }

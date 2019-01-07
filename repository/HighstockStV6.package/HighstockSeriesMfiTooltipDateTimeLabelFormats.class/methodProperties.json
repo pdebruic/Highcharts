@@ -1,13 +1,13 @@
 {
 	"instance" : {
-		"minute:" : null,
-		"hour:" : null,
-		"year:" : null,
-		"week:" : null,
-		"millisecond:" : null,
-		"second:" : null,
-		"month:" : null,
-		"day:" : null
+		"minute:" : "",
+		"hour:" : "",
+		"year:" : "",
+		"week:" : "",
+		"millisecond:" : "",
+		"second:" : "",
+		"month:" : "",
+		"day:" : ""
 	},
 	"class" : { }
 }

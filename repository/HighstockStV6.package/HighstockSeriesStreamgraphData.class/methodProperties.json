@@ -1,17 +1,17 @@
 {
 	"instance" : {
-		"description:" : null,
-		"labelrank:" : null,
-		"marker" : null,
-		"y:" : null,
-		"events" : null,
-		"name:" : null,
-		"x:" : null,
-		"id:" : null,
-		"dataLabels:" : null,
-		"events:" : null,
-		"color:" : null,
-		"selected:" : null
+		"description:" : "",
+		"labelrank:" : "",
+		"marker" : "",
+		"y:" : "",
+		"events" : "",
+		"name:" : "",
+		"x:" : "",
+		"id:" : "",
+		"dataLabels:" : "",
+		"events:" : "",
+		"color:" : "",
+		"selected:" : ""
 	},
 	"class" : { }
 }

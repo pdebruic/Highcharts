@@ -1,17 +1,17 @@
 {
 	"instance" : {
-		"lineWidthPlus:" : null,
-		"brightness:" : null,
-		"fillColor:" : null,
-		"marker" : null,
-		"halo" : null,
-		"borderWidth:" : null,
-		"animation" : null,
-		"borderColor:" : null,
-		"color:" : null,
-		"lineWidth:" : null,
-		"enabled:" : null,
-		"lineColor:" : null
+		"lineWidthPlus:" : "",
+		"brightness:" : "",
+		"fillColor:" : "",
+		"marker" : "",
+		"halo" : "",
+		"borderWidth:" : "",
+		"animation" : "",
+		"borderColor:" : "",
+		"color:" : "",
+		"lineWidth:" : "",
+		"enabled:" : "",
+		"lineColor:" : ""
 	},
 	"class" : { }
 }

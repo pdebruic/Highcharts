@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"stroke:" : null,
-		"padding:" : null,
-		"fill:" : null
+		"stroke:" : "",
+		"padding:" : "",
+		"fill:" : ""
 	},
 	"class" : { }
 }

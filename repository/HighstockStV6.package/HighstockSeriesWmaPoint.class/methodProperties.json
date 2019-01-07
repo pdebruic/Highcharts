@@ -1,7 +1,7 @@
 {
 	"instance" : {
-		"events" : null,
-		"events:" : null
+		"events" : "",
+		"events:" : ""
 	},
 	"class" : { }
 }

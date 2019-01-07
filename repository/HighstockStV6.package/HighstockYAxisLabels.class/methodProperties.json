@@ -1,20 +1,20 @@
 {
 	"instance" : {
-		"style" : null,
-		"step:" : null,
-		"useHTML:" : null,
-		"y:" : null,
-		"rotation:" : null,
-		"maxStaggerLines:" : null,
-		"overflow:" : null,
-		"align:" : null,
-		"format:" : null,
-		"x:" : null,
-		"zIndex:" : null,
-		"autoRotation:" : null,
-		"formatter:" : null,
-		"enabled:" : null,
-		"staggerLines:" : null
+		"style" : "",
+		"step:" : "",
+		"useHTML:" : "",
+		"y:" : "",
+		"rotation:" : "",
+		"maxStaggerLines:" : "",
+		"overflow:" : "",
+		"align:" : "",
+		"format:" : "",
+		"x:" : "",
+		"zIndex:" : "",
+		"autoRotation:" : "",
+		"formatter:" : "",
+		"enabled:" : "",
+		"staggerLines:" : ""
 	},
 	"class" : { }
 }

@@ -1,17 +1,17 @@
 {
 	"instance" : {
-		"hideDelay:" : null,
-		"xDateFormat:" : null,
-		"padding:" : null,
-		"headerFormat:" : null,
-		"pointFormatter:" : null,
-		"distance:" : null,
-		"footerFormat:" : null,
-		"followPointer:" : null,
-		"dateTimeLabelFormats" : null,
-		"followTouchMove:" : null,
-		"split:" : null,
-		"pointFormat:" : null
+		"hideDelay:" : "",
+		"xDateFormat:" : "",
+		"padding:" : "",
+		"headerFormat:" : "",
+		"pointFormatter:" : "",
+		"distance:" : "",
+		"footerFormat:" : "",
+		"followPointer:" : "",
+		"dateTimeLabelFormats" : "",
+		"followTouchMove:" : "",
+		"split:" : "",
+		"pointFormat:" : ""
 	},
 	"class" : { }
 }

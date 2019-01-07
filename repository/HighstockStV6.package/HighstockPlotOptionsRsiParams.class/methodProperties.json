@@ -1,7 +1,7 @@
 {
 	"instance" : {
-		"decimals:" : null,
-		"period:" : null
+		"decimals:" : "",
+		"period:" : ""
 	},
 	"class" : { }
 }

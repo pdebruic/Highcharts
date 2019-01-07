@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"standardDeviation:" : null,
-		"period:" : null,
-		"index:" : null
+		"standardDeviation:" : "",
+		"period:" : "",
+		"index:" : ""
 	},
 	"class" : { }
 }

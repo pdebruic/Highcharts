@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"borderWidth:" : null,
-		"brightness:" : null,
-		"lineWidthPlus:" : null,
-		"enabled:" : null
+		"borderWidth:" : "",
+		"brightness:" : "",
+		"lineWidthPlus:" : "",
+		"enabled:" : ""
 	},
 	"class" : { }
 }

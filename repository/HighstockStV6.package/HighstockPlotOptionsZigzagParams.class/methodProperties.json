@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"deviation:" : null,
-		"highIndex:" : null,
-		"lowIndex:" : null
+		"deviation:" : "",
+		"highIndex:" : "",
+		"lowIndex:" : ""
 	},
 	"class" : { }
 }

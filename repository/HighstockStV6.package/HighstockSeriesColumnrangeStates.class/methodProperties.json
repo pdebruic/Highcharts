@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"normal" : null,
-		"hover" : null,
-		"select" : null
+		"normal" : "",
+		"hover" : "",
+		"select" : ""
 	},
 	"class" : { }
 }

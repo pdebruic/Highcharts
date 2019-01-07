@@ -1,14 +1,14 @@
 {
 	"instance" : {
-		"brightness:" : null,
-		"lineWidthPlus:" : null,
-		"halo" : null,
-		"color:" : null,
-		"borderWidth:" : null,
-		"marker" : null,
-		"enabled:" : null,
-		"lineWidth:" : null,
-		"borderColor:" : null
+		"brightness:" : "",
+		"lineWidthPlus:" : "",
+		"halo" : "",
+		"color:" : "",
+		"borderWidth:" : "",
+		"marker" : "",
+		"enabled:" : "",
+		"lineWidth:" : "",
+		"borderColor:" : ""
 	},
 	"class" : { }
 }

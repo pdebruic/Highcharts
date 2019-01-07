@@ -1,7 +1,7 @@
 {
 	"instance" : {
-		"styles" : null,
-		"enabled:" : null
+		"styles" : "",
+		"enabled:" : ""
 	},
 	"class" : { }
 }

@@ -1,7 +1,7 @@
 {
 	"instance" : {
-		"next:" : null,
-		"prev:" : null
+		"next:" : "",
+		"prev:" : ""
 	},
 	"class" : { }
 }

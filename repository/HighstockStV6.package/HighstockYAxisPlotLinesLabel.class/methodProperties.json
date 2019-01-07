@@ -1,13 +1,13 @@
 {
 	"instance" : {
-		"y:" : null,
-		"rotation:" : null,
-		"align:" : null,
-		"style:" : null,
-		"textAlign:" : null,
-		"verticalAlign:" : null,
-		"x:" : null,
-		"useHTML:" : null
+		"y:" : "",
+		"rotation:" : "",
+		"align:" : "",
+		"style:" : "",
+		"textAlign:" : "",
+		"verticalAlign:" : "",
+		"x:" : "",
+		"useHTML:" : ""
 	},
 	"class" : { }
 }

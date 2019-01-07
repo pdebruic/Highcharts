@@ -1,16 +1,16 @@
 {
 	"instance" : {
-		"markerEnd:" : null,
-		"fill:" : null,
-		"points:" : null,
-		"height:" : null,
-		"stroke:" : null,
-		"width:" : null,
-		"point" : null,
-		"markerStart:" : null,
-		"strokeWidth:" : null,
-		"r:" : null,
-		"type:" : null
+		"markerEnd:" : "",
+		"fill:" : "",
+		"points:" : "",
+		"height:" : "",
+		"stroke:" : "",
+		"width:" : "",
+		"point" : "",
+		"markerStart:" : "",
+		"strokeWidth:" : "",
+		"r:" : "",
+		"type:" : ""
 	},
 	"class" : { }
 }

@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"lineWidthPlus:" : null,
-		"halo" : null,
-		"marker" : null,
-		"enabled:" : null,
-		"lineWidth:" : null
+		"lineWidthPlus:" : "",
+		"halo" : "",
+		"marker" : "",
+		"enabled:" : "",
+		"lineWidth:" : ""
 	},
 	"class" : { }
 }

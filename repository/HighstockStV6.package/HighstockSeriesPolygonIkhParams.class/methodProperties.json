@@ -1,7 +1,7 @@
 {
 	"instance" : {
-		"period:" : null,
-		"index:" : null
+		"period:" : "",
+		"index:" : ""
 	},
 	"class" : { }
 }

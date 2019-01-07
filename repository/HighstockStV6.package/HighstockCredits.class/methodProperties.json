@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"position" : null,
-		"href:" : null,
-		"style" : null,
-		"text:" : null,
-		"enabled:" : null
+		"position" : "",
+		"href:" : "",
+		"style" : "",
+		"text:" : "",
+		"enabled:" : ""
 	},
 	"class" : { }
 }

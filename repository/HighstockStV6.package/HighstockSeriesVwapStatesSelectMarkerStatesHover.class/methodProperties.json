@@ -1,13 +1,13 @@
 {
 	"instance" : {
-		"animation" : null,
-		"lineColor:" : null,
-		"lineWidthPlus:" : null,
-		"radius:" : null,
-		"radiusPlus:" : null,
-		"fillColor:" : null,
-		"enabled:" : null,
-		"lineWidth:" : null
+		"animation" : "",
+		"lineColor:" : "",
+		"lineWidthPlus:" : "",
+		"radius:" : "",
+		"radiusPlus:" : "",
+		"fillColor:" : "",
+		"enabled:" : "",
+		"lineWidth:" : ""
 	},
 	"class" : { }
 }

@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"relativeTo:" : null,
-		"position" : null,
-		"theme" : null
+		"relativeTo:" : "",
+		"position" : "",
+		"theme" : ""
 	},
 	"class" : { }
 }

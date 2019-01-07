@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"buttonOptions" : null,
-		"menuItemStyle" : null,
-		"menuStyle" : null,
-		"menuItemHoverStyle" : null
+		"buttonOptions" : "",
+		"menuItemStyle" : "",
+		"menuStyle" : "",
+		"menuItemHoverStyle" : ""
 	},
 	"class" : { }
 }

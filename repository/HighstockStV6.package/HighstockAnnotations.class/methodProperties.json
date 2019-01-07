@@ -1,11 +1,11 @@
 {
 	"instance" : {
-		"shapeOptions" : null,
-		"labelOptions" : null,
-		"shapes" : null,
-		"labels" : null,
-		"zIndex:" : null,
-		"visible:" : null
+		"shapeOptions" : "",
+		"labelOptions" : "",
+		"shapes" : "",
+		"labels" : "",
+		"zIndex:" : "",
+		"visible:" : ""
 	},
 	"class" : { }
 }

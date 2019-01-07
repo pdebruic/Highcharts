@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"volumeSeriesID:" : null,
-		"period:" : null,
-		"index:" : null
+		"volumeSeriesID:" : "",
+		"period:" : "",
+		"index:" : ""
 	},
 	"class" : { }
 }
