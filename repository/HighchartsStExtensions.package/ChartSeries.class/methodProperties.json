@@ -1,19 +1,19 @@
 {
 	"instance" : {
-		"dataCategories" : null,
-		"minimumValueOrIfEmpty:" : null,
-		"name" : null,
-		"configureYAxisOf:accordingTo:" : null,
-		"pointFor:on:" : null,
-		"configureRangeOf:accordingTo:" : null,
-		"dataAsPointsOn:" : null,
-		"printOn:" : null,
-		"initializeNamed:composedOf:creatingChartSeriesWith:configuredUsing:" : null,
-		"configureChartSeriesOf:applying:" : null,
-		"maximumValueOrIfEmpty:" : null,
-		"configureXAxisOf:accordingTo:" : null
+		"dataCategories" : "",
+		"minimumValueOrIfEmpty:" : "",
+		"name" : "",
+		"configureYAxisOf:accordingTo:" : "",
+		"pointFor:on:" : "",
+		"configureRangeOf:accordingTo:" : "",
+		"dataAsPointsOn:" : "",
+		"printOn:" : "",
+		"initializeNamed:composedOf:creatingChartSeriesWith:configuredUsing:" : "",
+		"configureChartSeriesOf:applying:" : "",
+		"maximumValueOrIfEmpty:" : "",
+		"configureXAxisOf:accordingTo:" : ""
 	},
 	"class" : {
-		"named:composedOf:creatingChartSeriesWith:configuredUsing:" : null
+		"named:composedOf:creatingChartSeriesWith:configuredUsing:" : ""
 	}
 }

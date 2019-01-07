@@ -1,11 +1,11 @@
 {
 	"instance" : {
-		"use:startingAt:" : null,
-		"toBottom" : null,
-		"toTheRight" : null,
-		"stops" : null
+		"use:startingAt:" : "",
+		"toBottom" : "",
+		"toTheRight" : "",
+		"stops" : ""
 	},
 	"class" : {
-		"colorOrGradienFrom:" : null
+		"colorOrGradienFrom:" : ""
 	}
 }

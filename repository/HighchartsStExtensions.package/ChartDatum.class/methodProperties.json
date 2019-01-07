@@ -1,19 +1,19 @@
 {
 	"instance" : {
-		"value" : null,
-		"yValue" : null,
-		"printOn:" : null,
-		"category" : null,
-		"withColorDo:" : null,
-		"initializeNamed:locatedAt:and:colorOptional:" : null,
-		"xValue" : null,
-		"name" : null
+		"value" : "",
+		"yValue" : "",
+		"printOn:" : "",
+		"category" : "",
+		"withColorDo:" : "",
+		"initializeNamed:locatedAt:and:colorOptional:" : "",
+		"xValue" : "",
+		"name" : ""
 	},
 	"class" : {
-		"belongingTo:withValue:" : null,
-		"named:locatedAt:and:colorOptional:" : null,
-		"named:locatedAt:and:toBeColoredUsing:" : null,
-		"named:locatedAt:and:" : null,
-		"belongingTo:withValue:toBeColoredUsing:" : null
+		"belongingTo:withValue:" : "",
+		"named:locatedAt:and:colorOptional:" : "",
+		"named:locatedAt:and:toBeColoredUsing:" : "",
+		"named:locatedAt:and:" : "",
+		"belongingTo:withValue:toBeColoredUsing:" : ""
 	}
 }
