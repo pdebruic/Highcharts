@@ -1,1 +1,1 @@
-SystemOrganization addCategory: 'BaselineOfHighchartsSt'!
+SystemOrganization addCategory: #BaselineOfHighchartsSt!
