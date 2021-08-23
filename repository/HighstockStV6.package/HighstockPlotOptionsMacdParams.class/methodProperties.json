@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"signalPeriod:" : "",
+		"shortPeriod:" : "",
+		"longPeriod:" : "",
+		"period:" : "",
+		"index:" : ""
+	},
+	"class" : { }
+}

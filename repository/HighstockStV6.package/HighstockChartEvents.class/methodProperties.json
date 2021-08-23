@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"selection:" : "",
+		"afterPrint:" : "",
+		"click:" : "",
+		"redraw:" : "",
+		"beforePrint:" : "",
+		"load:" : "",
+		"addSeries:" : "",
+		"render:" : ""
+	},
+	"class" : { }
+}

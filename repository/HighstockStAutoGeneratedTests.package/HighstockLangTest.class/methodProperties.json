@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"testDownloadPNG" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testRangeSelectorTo" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testDownloadSVG" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testWeekdays" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testDecimalPoint" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testShortWeekdays" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testNumericSymbols" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testRangeSelectorZoom" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testDownloadPDF" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testInvalidDate" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testContextButtonTitle" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testNumericSymbolMagnitude" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testThousandsSep" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testShortMonths" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testMonths" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testDownloadJPEG" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testPrintChart" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testResetZoomTitle" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testResetZoom" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testRangeSelectorFrom" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testLoading" : "MarianoMartinezPeck 1/11/2017 12:41"
+	},
+	"class" : { }
+}

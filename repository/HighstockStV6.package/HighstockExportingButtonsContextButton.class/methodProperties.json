@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"symbolY:" : "",
+		"symbolStroke:" : "",
+		"menuClassName:" : "",
+		"onclick:" : "",
+		"symbolFill:" : "",
+		"text:" : "",
+		"symbolSize:" : "",
+		"y:" : "",
+		"width:" : "",
+		"height:" : "",
+		"menuItems:" : "",
+		"className:" : "",
+		"symbolX:" : "",
+		"_titleKey:" : "",
+		"x:" : "",
+		"symbolStrokeWidth:" : "",
+		"theme" : "",
+		"enabled:" : "",
+		"symbol:" : "",
+		"buttonSpacing:" : "",
+		"align:" : "",
+		"verticalAlign:" : ""
+	},
+	"class" : { }
+}

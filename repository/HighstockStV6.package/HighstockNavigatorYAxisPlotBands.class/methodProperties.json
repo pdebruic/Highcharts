@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"label" : "",
+		"thickness:" : "",
+		"className:" : "",
+		"borderWidth:" : "",
+		"zIndex:" : "",
+		"id:" : "",
+		"from:" : "",
+		"borderColor:" : "",
+		"events:" : "",
+		"color:" : "",
+		"to:" : "",
+		"outerRadius:" : "",
+		"innerRadius:" : ""
+	},
+	"class" : { }
+}

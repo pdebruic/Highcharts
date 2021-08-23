@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"animation:" : "",
+		"inactiveColor:" : "",
+		"style:" : "",
+		"arrowSize:" : "",
+		"enabled:" : "",
+		"activeColor:" : ""
+	},
+	"class" : { }
+}

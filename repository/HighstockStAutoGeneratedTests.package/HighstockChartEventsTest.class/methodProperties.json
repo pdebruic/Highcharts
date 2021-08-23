@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testAddSeries" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testRedraw" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testBeforePrint" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testLoad" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testAfterPrint" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testSelection" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testClick" : "MarianoMartinezPeck 1/11/2017 12:41"
+	},
+	"class" : { }
+}

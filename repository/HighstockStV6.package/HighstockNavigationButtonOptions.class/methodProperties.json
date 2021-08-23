@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"symbolStrokeWidth:" : "",
+		"y:" : "",
+		"buttonSpacing:" : "",
+		"align:" : "",
+		"symbolX:" : "",
+		"symbolSize:" : "",
+		"symbolStroke:" : "",
+		"text:" : "",
+		"height:" : "",
+		"width:" : "",
+		"theme" : "",
+		"symbolFill:" : "",
+		"verticalAlign:" : "",
+		"symbolY:" : "",
+		"enabled:" : ""
+	},
+	"class" : { }
+}

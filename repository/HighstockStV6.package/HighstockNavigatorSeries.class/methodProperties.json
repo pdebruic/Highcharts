@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"type:" : "",
+		"marker" : "",
+		"fillOpacity:" : "",
+		"className:" : "",
+		"dataLabels" : "",
+		"dataGrouping" : "",
+		"pointRange:" : "",
+		"id:" : "",
+		"threshold:" : "",
+		"lineWidth:" : "",
+		"lineColor:" : ""
+	},
+	"class" : { }
+}

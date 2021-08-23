@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"outlineWidth:" : "",
+		"maskFill:" : "",
+		"adaptToUpdatedData:" : "",
+		"outlineColor:" : "",
+		"series" : "",
+		"baseSeries:" : "",
+		"xAxis" : "",
+		"height:" : "",
+		"handles" : "",
+		"opposite:" : "",
+		"yAxis" : "",
+		"enabled:" : "",
+		"maskInside:" : "",
+		"margin:" : ""
+	},
+	"class" : { }
+}

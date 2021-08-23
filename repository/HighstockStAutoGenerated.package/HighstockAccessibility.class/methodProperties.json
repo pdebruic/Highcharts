@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"enabled:" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"screenReaderSectionFormatter:" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"keyboardNavigation:" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"onTableAnchorClick:" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"describeSingleSeries:" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"pointDescriptionThreshold:" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"pointDescriptionFormatter:" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"seriesDescriptionFormatter:" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"pointDateFormat:" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"pointDateFormatter:" : "MarianoMartinezPeck 1/11/2017 12:41"
+	},
+	"class" : { }
+}

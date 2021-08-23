@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"zIndex:" : "",
+		"liveRedraw:" : "",
+		"buttonBorderColor:" : "",
+		"buttonArrowColor:" : "",
+		"step:" : "",
+		"height:" : "",
+		"trackBackgroundColor:" : "",
+		"minWidth:" : "",
+		"trackBorderRadius:" : "",
+		"buttonBorderRadius:" : "",
+		"trackBorderColor:" : "",
+		"trackBorderWidth:" : "",
+		"rifleColor:" : "",
+		"barBorderRadius:" : "",
+		"showFull:" : "",
+		"buttonBorderWidth:" : "",
+		"barBorderColor:" : "",
+		"barBorderWidth:" : "",
+		"buttonBackgroundColor:" : "",
+		"barBackgroundColor:" : "",
+		"enabled:" : "",
+		"margin:" : ""
+	},
+	"class" : { }
+}

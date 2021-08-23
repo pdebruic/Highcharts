@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"labelrank:" : "",
+		"selected:" : "",
+		"high:" : "",
+		"low:" : "",
+		"events" : "",
+		"name:" : "",
+		"x:" : "",
+		"id:" : "",
+		"dataLabels:" : "",
+		"events:" : "",
+		"color:" : "",
+		"description:" : ""
+	},
+	"class" : { }
+}

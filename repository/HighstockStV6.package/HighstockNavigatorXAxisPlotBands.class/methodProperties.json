@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"label" : "",
+		"className:" : "",
+		"zIndex:" : "",
+		"borderWidth:" : "",
+		"id:" : "",
+		"to:" : "",
+		"from:" : "",
+		"events:" : "",
+		"color:" : "",
+		"borderColor:" : ""
+	},
+	"class" : { }
+}

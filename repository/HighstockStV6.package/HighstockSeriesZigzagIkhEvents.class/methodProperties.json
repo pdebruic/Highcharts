@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"legendItemClick:" : "",
+		"afterAnimate:" : "",
+		"checkboxClick:" : "",
+		"click:" : "",
+		"mouseOver:" : "",
+		"hide:" : "",
+		"show:" : "",
+		"mouseOut:" : ""
+	},
+	"class" : { }
+}

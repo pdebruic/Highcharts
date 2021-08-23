@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"y:" : "",
+		"floating:" : "",
+		"align:" : "",
+		"style:" : "",
+		"widthAdjust:" : "",
+		"verticalAlign:" : "",
+		"text:" : "",
+		"x:" : "",
+		"useHTML:" : ""
+	},
+	"class" : { }
+}

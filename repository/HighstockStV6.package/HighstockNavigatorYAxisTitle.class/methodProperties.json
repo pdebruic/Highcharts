@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"style" : "",
+		"useHTML:" : "",
+		"y:" : "",
+		"rotation:" : "",
+		"reserveSpace:" : "",
+		"align:" : "",
+		"skew3d:" : "",
+		"text:" : "",
+		"offset:" : "",
+		"x:" : "",
+		"position3d:" : "",
+		"enabled:" : "",
+		"margin:" : ""
+	},
+	"class" : { }
+}
