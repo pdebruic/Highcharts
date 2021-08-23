@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"dateTimeLabelFormats:" : "",
+		"units:" : "",
+		"smoothed:" : "",
+		"approximation:" : "",
+		"forced:" : "",
+		"enabled:" : "",
+		"groupPixelWidth:" : ""
+	},
+	"class" : { }
+}

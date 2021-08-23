@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"menuItemDefinitions:" : "",
+		"type:" : "",
+		"allowHTML:" : "",
+		"scale:" : "",
+		"sourceHeight:" : "",
+		"sourceWidth:" : "",
+		"width:" : "",
+		"showTable:" : "",
+		"chartOptions:" : "",
+		"fallbackToExportServer:" : "",
+		"printMaxWidth:" : "",
+		"formAttributes:" : "",
+		"libURL:" : "",
+		"filename:" : "",
+		"error:" : "",
+		"enabled:" : "",
+		"csv" : "",
+		"buttons" : "",
+		"url:" : ""
+	},
+	"class" : { }
+}

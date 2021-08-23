@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"maxAccelerationFactor:" : "",
+		"decimals:" : "",
+		"initialAccelerationFactor:" : "",
+		"increment:" : ""
+	},
+	"class" : { }
+}

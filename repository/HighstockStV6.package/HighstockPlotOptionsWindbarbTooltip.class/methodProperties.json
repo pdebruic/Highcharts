@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"valueDecimals:" : "",
+		"hideDelay:" : "",
+		"valuePrefix:" : "",
+		"xDateFormat:" : "",
+		"padding:" : "",
+		"headerFormat:" : "",
+		"pointFormatter:" : "",
+		"valueSuffix:" : "",
+		"distance:" : "",
+		"footerFormat:" : "",
+		"changeDecimals:" : "",
+		"followPointer:" : "",
+		"dateTimeLabelFormats" : "",
+		"followTouchMove:" : "",
+		"split:" : "",
+		"pointFormat:" : ""
+	},
+	"class" : { }
+}

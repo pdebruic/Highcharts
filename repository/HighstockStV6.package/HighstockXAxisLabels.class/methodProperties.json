@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"style" : "",
+		"step:" : "",
+		"useHTML:" : "",
+		"y:" : "",
+		"rotation:" : "",
+		"maxStaggerLines:" : "",
+		"overflow:" : "",
+		"align:" : "",
+		"format:" : "",
+		"x:" : "",
+		"zIndex:" : "",
+		"autoRotation:" : "",
+		"formatter:" : "",
+		"enabled:" : "",
+		"staggerLines:" : ""
+	},
+	"class" : { }
+}

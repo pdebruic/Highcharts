@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"formatter:" : "",
+		"verticalAlign:" : "",
+		"format:" : "",
+		"shadow:" : "",
+		"crop:" : "",
+		"padding:" : "",
+		"overflow:" : "",
+		"borderWidth:" : "",
+		"distance:" : "",
+		"borderColor:" : "",
+		"text:" : "",
+		"y:" : "",
+		"point" : "",
+		"x:" : "",
+		"backgroundColor:" : "",
+		"borderRadius:" : "",
+		"useHTML:" : "",
+		"allowOverlap:" : "",
+		"style" : "",
+		"align:" : "",
+		"shape:" : ""
+	},
+	"class" : { }
+}

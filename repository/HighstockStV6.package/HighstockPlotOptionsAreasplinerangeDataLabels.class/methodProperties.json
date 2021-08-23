@@ -1,0 +1,33 @@
+{
+	"instance" : {
+		"formatter:" : "",
+		"shape:" : "",
+		"verticalAlign:" : "",
+		"yHigh:" : "",
+		"format:" : "",
+		"shadow:" : "",
+		"crop:" : "",
+		"padding:" : "",
+		"overflow:" : "",
+		"borderWidth:" : "",
+		"borderColor:" : "",
+		"xHigh:" : "",
+		"defer:" : "",
+		"color:" : "",
+		"inside:" : "",
+		"yLow:" : "",
+		"className:" : "",
+		"filter" : "",
+		"backgroundColor:" : "",
+		"borderRadius:" : "",
+		"allowOverlap:" : "",
+		"useHTML:" : "",
+		"enabled:" : "",
+		"xLow:" : "",
+		"zIndex:" : "",
+		"style" : "",
+		"align:" : "",
+		"rotation:" : ""
+	},
+	"class" : { }
+}

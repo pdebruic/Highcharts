@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"testEnabled" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testKeyboardNavigation" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testPointDescriptionFormatter" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testOnTableAnchorClick" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testDescribeSingleSeries" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testPointDescriptionThreshold" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testSeriesDescriptionFormatter" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testPointDateFormatter" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testPointDateFormat" : "MarianoMartinezPeck 1/11/2017 12:41",
+		"testScreenReaderSectionFormatter" : "MarianoMartinezPeck 1/11/2017 12:41"
+	},
+	"class" : { }
+}

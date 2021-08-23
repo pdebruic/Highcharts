@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"lineWidthPlus:" : "",
+		"brightness:" : "",
+		"fillColor:" : "",
+		"marker" : "",
+		"halo" : "",
+		"borderWidth:" : "",
+		"animation" : "",
+		"borderColor:" : "",
+		"color:" : "",
+		"lineWidth:" : "",
+		"enabled:" : "",
+		"lineColor:" : ""
+	},
+	"class" : { }
+}

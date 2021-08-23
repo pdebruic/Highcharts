@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAOnlineLibrary",
+	"category" : "HighstockStLibraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Highstock6OnlineLibrary",
+	"type" : "normal"
+}

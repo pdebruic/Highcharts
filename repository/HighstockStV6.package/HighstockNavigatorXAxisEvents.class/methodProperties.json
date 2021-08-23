@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"afterSetExtremes:" : "",
+		"pointInBreak:" : "",
+		"setExtremes:" : "",
+		"afterBreaks:" : "",
+		"pointBreak:" : ""
+	},
+	"class" : { }
+}

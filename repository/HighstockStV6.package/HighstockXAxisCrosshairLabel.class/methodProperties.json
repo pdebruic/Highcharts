@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"borderRadius:" : "",
+		"backgroundColor:" : "",
+		"padding:" : "",
+		"style:" : "",
+		"align:" : "",
+		"shape:" : "",
+		"format:" : "",
+		"borderWidth:" : "",
+		"borderColor:" : "",
+		"formatter:" : ""
+	},
+	"class" : { }
+}

@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"style" : "",
+		"useHTML:" : "",
+		"y:" : "",
+		"rotation:" : "",
+		"align:" : "",
+		"textAlign:" : "",
+		"format:" : "",
+		"x:" : "",
+		"allowOverlap:" : "",
+		"formatter:" : "",
+		"verticalAlign:" : "",
+		"enabled:" : ""
+	},
+	"class" : { }
+}

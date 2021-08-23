@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"VMLRadialGradientURL:" : "",
+		"timezoneOffset:" : "",
+		"getTimezoneOffset:" : "",
+		"Date:" : "",
+		"timezone:" : "",
+		"useUTC:" : ""
+	},
+	"class" : { }
+}

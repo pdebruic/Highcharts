@@ -1,0 +1,28 @@
+{
+	"instance" : {
+		"inputBoxHeight:" : "",
+		"buttonPosition" : "",
+		"buttonTheme" : "",
+		"inputBoxStyle:" : "",
+		"inputPosition" : "",
+		"y:" : "",
+		"height:" : "",
+		"inputEditDateFormat:" : "",
+		"inputStyle:" : "",
+		"inputDateFormat:" : "",
+		"allButtonsEnabled:" : "",
+		"inputBoxWidth:" : "",
+		"x:" : "",
+		"selected:" : "",
+		"inputEnabled:" : "",
+		"inputDateParser:" : "",
+		"inputBoxBorderColor:" : "",
+		"floating:" : "",
+		"labelStyle" : "",
+		"buttonSpacing:" : "",
+		"enabled:" : "",
+		"buttons" : "",
+		"verticalAlign:" : ""
+	},
+	"class" : { }
+}

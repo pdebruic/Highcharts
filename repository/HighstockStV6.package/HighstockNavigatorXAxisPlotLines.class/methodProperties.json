@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"width:" : "",
+		"value:" : "",
+		"dashStyle:" : "",
+		"id:" : "",
+		"color:" : "",
+		"className:" : "",
+		"zIndex:" : "",
+		"events:" : "",
+		"label" : ""
+	},
+	"class" : { }
+}
