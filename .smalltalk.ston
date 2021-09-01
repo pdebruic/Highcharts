@@ -1,2 +1,11 @@
-SmalltalkCISpec {  #loading : [    SCIMetacelloLoadSpec {  	 #baseline : 'HighchartsSt',          #platforms : [ #pharo, #gemstone ],
-#onWarningLog : true,#onConflict: #useLoaded    }  ]}
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+  	 #baseline : 'HighchartsSt',    
+      #platforms : [ #pharo, #gemstone ],
+	#repository: 'github://pdebruic/Highcharts:main/repository',
+#onWarningLog : true,
+#onConflict: #useLoaded
+    }
+  ]
+}
