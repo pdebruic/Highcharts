@@ -3,7 +3,7 @@ SmalltalkCISpec {
     SCIMetacelloLoadSpec {
   	 #baseline : 'HighchartsSt',    
       #platforms : [ #pharo, #gemstone ],
-	#repository: 'github://pdebruic/Highcharts:main/repository',
+	#directory: 'repository',
 #onWarningLog : true,
 #onConflict: #useLoaded
     }
