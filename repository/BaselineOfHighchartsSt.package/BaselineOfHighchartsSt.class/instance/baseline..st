@@ -7,7 +7,7 @@ baseline: spec
 		do: [ spec
 				baseline: 'Seaside3'
 				with: [ spec
-						loads: #('Core' 'JQuery');
+						loads: #('Core' 'JQuery' 'Filesystem');
 						repository: 'github://SeasideSt/Seaside:master/repository' ].
 			spec
 				package: 'HighchartsStCore'
